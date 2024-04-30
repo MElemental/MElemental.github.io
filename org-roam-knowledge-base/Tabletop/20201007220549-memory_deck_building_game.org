@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d38d178f-32c9-41b5-9101-caab35fb8e6b
+:ROAM_ALIASES: "PID Memory Mechanic"
+:mtime:    20240419042756 20240404193447
+:ctime:    20201007220549
+:END:
+#+title: Memory deck building game
+#+filetags: :game_design:memory:zettelkasten:notetaking:rpg_characters:
+This is a part of the game [[id:e27c7b62-e338-4056-917d-a544725d91aa][PID]].
+The memory deck building game is based on [[id:1f2728d2-482f-4e66-98b5-ca7348c55e44][Zettelkasten]].
+* Rules

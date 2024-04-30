@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       63e7c813-e9e0-4639-9934-90461797b64e
+:mtime:    20240419042735 20240326202215
+:ctime:    20240326201643
+:END:
+#+title: Post Production
+#+filetags: :film_making:video_editing:video_production:video:special_effects:sfx:
+* Syncronizing
+* Visual
+* Audio
+** Music
+** Sound effects
+** Foley

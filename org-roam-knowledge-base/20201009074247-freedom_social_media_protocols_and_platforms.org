@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       e0c70b14-30c6-48de-9b01-14041b4deaec
+:mtime:    20240419042758 20240320202954
+:ctime:    20201009074247
+:END:
+#+title: Freedom Social Media Protocols and Platforms
+#+filetags: :free_software:freedom:social_media:federated:
+
+Freedom Social Media refers to social media based on [[file:20201101182614-free_software_movement.org][Free Software]].
+
+* Social Media sites
+
+** Mastodon
+   federated alternative to twitter
+
+** Pixelfed
+   federated alternative to instagram
+
+** LBRY
+   protocol for videos
+
+* Federation
+
+  A lot of these platforms are decentralized and federated. This is referred to as the fediverse.

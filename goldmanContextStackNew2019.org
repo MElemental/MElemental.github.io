@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e3c81655-e09b-4409-aa12-0f6842582e77
+:ROAM_REFS: @goldmanContextStackNew2019
+:mtime:    20240419042759 20240412082748
+:ctime:    20240412082748
+:END:
+#+title: Goldman, Ben - The Context Stack: A New Way to Visualize Game Rules
+pdf: [[/home/microelemental/Zotero/storage/SWBXUVT7/the-context-stack.html]]
+* zotero notes

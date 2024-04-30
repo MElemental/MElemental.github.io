@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a49c137b-757f-4ff9-b10a-ce95c4ec097b
+:mtime:    20240419042745 20240311002134
+:ctime:    20240311002134
+:END:
+#+title: Index
+Will this index do something?
+
+-[[id:b5ad19df-c227-49f0-8079-56d5ff96da00][Org-roam Tutorial]]
+
+-[[id:00994f71-0709-4af9-ac22-1e820f281cb0][Journal Main]]

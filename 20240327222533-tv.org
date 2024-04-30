@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       8ab6b612-c794-4ab8-89d2-1a0613c324e8
+:mtime:    20240429151025 20240419042738 20240330150854
+:ctime:    20240327222533
+:ROAM_ALIASES: TV
+:END:
+#+title: television
+#+filetags: :STUB:television:display:video:audio:monitor:downstage_monitor:
+
+* Display
+
+Modern TVs are usually flat screens.
+Standard definition TVs have a resolution of 720p.
+High definition TVs have a resolution of 1080px720.
+
+* Audio
+
+Most TVs have built in speakers.
+
+* Inputs
+
+** AV
+** HDMI
+** Antenna
+** [[id:69d1972a-e34e-4508-822a-350505d17b33][IEC 60320]] to [[id:9339d3ae-7fe7-449e-9c88-d8e07fea73e0][NEMA 5 (Edison)]]
+
+* Smart TV
+Modern tvs are likely to come with an operating system built into the TV.

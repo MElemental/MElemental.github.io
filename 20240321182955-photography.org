@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f1fd751f-5939-4a86-b6fd-e2b82eab6ebb
+:mtime:    20240419042804 20240321201050
+:ctime:    20240321182955
+:END:
+#+TITLE: Photography
+ #+filetags: :light:signal_processing:photography:photos:digital_photography:film_photography:cameras:
+
+* Signals
+Photography fundamentally measures intensity of light exposure per unit.
+This is related to brightness.
+
+* [[id:988a1f70-6272-4cbf-ad42-6ab03f787e18][Composition]]
+
+The artistic arrangement of elements is important in photograph and painting.

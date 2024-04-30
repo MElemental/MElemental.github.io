@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       25b0b454-6ad0-4ece-9672-da108bfa8ab5
+:mtime:    20240419042729 20240318224652
+:ctime:    20240318224405
+:END:
+#+title: Test Project
+#+filetags: Project
+* Goals
+
+To be the very best that no one ever was.
+
+* Tasks
+
+** TODO Add initial tasks
+- [ ] travel across the land
+  - [ ] search far and wide.
+- [ ] catch them is my real test
+- [ ] train them is my cause.
+
+* Dates

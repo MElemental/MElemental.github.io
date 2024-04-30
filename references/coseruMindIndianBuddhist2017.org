@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9003695b-ef75-47a9-8377-5889dace643a
+:ROAM_REFS: @coseruMindIndianBuddhist2017
+:mtime:    20240419042739 20240328134138
+:ctime:    20240328134138
+:END:
+#+title: Coseru, Christian - Mind in Indian Buddhist Philosophy
+#+filetags: :philosophy_of_mind:buddhism:mind
+pdf: zotero://open-pdf/library/items/86PD9AM4?Coseru\_2017\_Mind in Indian Buddhist Philosophy.pdf;/home/microelemental/Zotero/storage/SZ6SLNLQ/mind-indian-buddhism.html
+* zotero notes

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       175c332b-8650-4375-ad83-21b28bd00ef9
+:mtime:    20240419042727 20240327074740
+:ctime:    20240327074506
+:END:
+#+title: Spectral colors
+#+filetags: :color:light_spectrum:wavelength:physics:elctromagnetism:elctromagnetic_spectrum:

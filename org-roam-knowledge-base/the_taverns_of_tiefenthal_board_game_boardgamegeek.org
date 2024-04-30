@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3f695d88-e559-4c30-9c69-4e1cc5000580
+:ROAM_REFS: https://boardgamegeek.com/boardgame/269207/taverns-tiefenthal
+:mtime:    20240419042731 20240320202630
+:ctime:    20240320202630
+:END:
+#+title: The Taverns of Tiefenthal | Board Game | BoardGameGeek
+#+filetags: :tabletop:deck_builder:
+
+* Mechanics
+  This game is unique because it draws cards variably by trying to fill a set of tavern tables.
+  This is what I would use in parallel to my memory mechanics.
+* Uses
+  I'll probably use this for the [[id:d38d178f-32c9-41b5-9101-caab35fb8e6b][PID Memory Mechanic]].

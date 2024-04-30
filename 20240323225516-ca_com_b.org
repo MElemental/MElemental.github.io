@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ae7ddcb7-5d87-4c15-9eba-5bd16632ec99
+:ROAM_ALIAS: "CA-COM-B" "CA-COM" "CA-COM Threaded"
+:mtime:    20240419042747 20240324175124
+:ctime:    20240323225516
+:END:
+#+title: ITT CA-COM
+#+filetags: :power_connector:electrical_power:
+
+* Connections
+
+** [[id:a4653e16-456a-4127-85f5-8c5d536bea16][Power Distribution Unit]]
+** [[id:ed1e6f52-b16f-44e0-ab87-a78584045d95][Neutrik NL4]]
+
+* Notes
+
+ * the CA-COM to NL4 splitters can be male or female.

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       69bf54e3-4a4f-4aa6-b799-6e51792fe99e
+:mtime:    20240419042736 20240330164754
+:ctime:    20240329191937
+:END:
+#+title: ct.el package test
+#+filetags: :Project:
+* Goals
+
+Try out the ct Package
+
+* Tasks
+
+** TODO Generate color code
+#+begin_src emacs-lisp
+(ct-contrast-ratio "#bbbbbb" "#4fa5e8") ;; => 1.3881996647056503
+#+end_src
+
+* Dates

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       b93567d6-e9a7-46c0-b6ad-a676f9d3322c
+:ROAM_ALIASES: Soroban そろばん Suanpan 算盤
+:mtime:    20240419042752 20240321053743
+:ctime:    20201013212324
+:END:
+#+title: Abacus
+#+filetags: :arithmetic:mathematics:calculation:
+* Main Idea
+
+The abacus is a mechanical calculator. Learning certain abacus can make mental math proficient.
+It does [[id:2b3a351a-9dc8-411a-84c9-746f49151541][arithmetic.]]
+
+* History and Etymology
+
+  The abacus originally started out as a box of sand in which computers would make marks in the sand to keep track of numbers.
+  Eventually they used beads in the sand, and later organized these beads with rods.
+
+* Different types of abacus
+
+  There are many types of abacus.
+
+** Suanpan 算盤 (Chinese)
+
+  These abacus have earthly bead of value 1 and heavenly beads of value 5.
+  The Chinese style has 5 earthly beads and 2 heavenly beads.
+
+*** Calculation
+
+** TODO Soroban そろばん (Japanese)
+
+  The Japanese style has 4 earthly beads and 1 heavenly bead.
+
+*** Calculation
+
+**** Complementary Numbers
+
+* Usage

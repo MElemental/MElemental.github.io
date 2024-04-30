@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       9339d3ae-7fe7-449e-9c88-d8e07fea73e0
+:POWER_TRANSFER: YES
+:POWER_RATING:
+:DATA_TRANSFER: NO
+:DATA_TYPE: NA
+:ROAM_ALIASES: "Edison Cable" "NEMA 5"
+:mtime:    20240419042740 20240322053158
+:ctime:    20240321063341
+:END:
+#+TITLE: NEMA 5 (Edison)
+#+filetags: :stagecraft:stagehand:electrical_power:power_cable:nema:
+
+[[file:/home/microelemental/Documents/org-roam/images/NEMA-AC-Power-Plugs.jpg]]
+* Standards by
+National Electrical Manufacturer's Association
+* Pins
+#+CAPTION: NEMA 5-15R PINOUT
+[[file:/home/microelemental/Documents/org-roam/images/5-15R-PINOUT.jpg]]
+
+** Ground
+
+The round pin
+
+** Neutral
+
+The large flat pin
+
+** Hot
+
+Te small flat pin
+
+* Applications
+Most united states commercial appliances
+* Configurations
+
+** Power strips
+** Extension Cables
+Usually Male to Female
+** [[id:7b0de39e-0dc0-405b-8587-31064d8f4ab3][Socapex]]
+be one male [[id:7b0de39e-0dc0-405b-8587-31064d8f4ab3][Socapex]] and 6 Edison cables.

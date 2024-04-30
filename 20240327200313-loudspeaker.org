@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       58d3a07b-4925-4ba2-8902-fa6a148d0d16
+:ROAM_ALIASES: loudspeaker
+:mtime:    20240419042733 20240327200630
+:ctime:    20240327200313
+:END:
+#+title: Loudspeaker
+#+filetags: :loudspeaker:speaker:audio:pa_system:public_address:sound_reinforcement:
+
+* Line Arrays
+* Sub-woofers

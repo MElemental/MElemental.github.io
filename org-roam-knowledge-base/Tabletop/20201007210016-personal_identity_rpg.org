@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e27c7b62-e338-4056-917d-a544725d91aa
+:ROAM_ALIASES: PID
+:mtime:    20240419042758 20240320200111
+:ctime:    20201007210016
+:END:
+#+title: Personal Identity RPG
+#+filetags: :Project:game_design:rpg:personal_identity:memory:psychological_fusion:psychological_fission:psychological_continuity:
+* Introduction
+
+* Components
+
+  Personal Identity will have a [[id:d38d178f-32c9-41b5-9101-caab35fb8e6b][Memory deck building game]] for implementing character memory.
+  Personal Identity will also have character history system potentially based off of [[id:7eec0c51-61c8-42c9-9101-b113b1ad3510][Git]].
+  Personal Identity has a personality/skill system called MOOSE which is based on models such as MOOSE and HEXACO.
+
+* Rulebook
+  I am currently working on a rulebook at [[file:~/Documents/PID/PID.org][Personal Identity: Player Handbook]].
+
+* Citations
+[cite:@parfitPersonalIdentity1971]
+[cite:@olsonPersonalIdentity2023]
+[cite:@coseruMindIndianBuddhist2017]

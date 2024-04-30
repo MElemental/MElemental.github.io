@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a2a9f2cc-2e48-4c74-9f58-e4caae4dc267
+:mtime:    20240419042744 20240417165009
+:ctime:    20240331173657
+:END:
+#+title: Cognitive Revolution
+#+filetags: :cognition:computation:psychology:linguistics:philosophy:history_of_science:
+
+#+LATEX_HEADER: \bibliographystyle{plain}
+
+The cognitive revolution refers to the shift from [[id:9ff3fce5-1180-4014-b502-d9107b2cef10][behaviorism]] and [[roam:Structuralism]] in psychology and linguistics, into a paradigm of [[id:8b4f316f-20fa-4625-a742-2770dac0011b][cognition]].
+The cognitive revolution was largely influences by the fields of [[id:b73304a7-25e1-4b61-bec7-bb7c3ce09e22][Information Theory]] and the new field of computer science from 1940 to 1956.
+Psychology started playing with the metaphor of the mind as a computer.
+[[id:00775a4b-e515-42f1-896d-eae818f77481][Computation]] heavily influenced this revolution.
+[cite:@frankishCambridgeHandbookCognitive2012]

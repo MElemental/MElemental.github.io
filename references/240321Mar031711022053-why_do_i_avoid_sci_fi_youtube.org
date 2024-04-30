@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3667d7b1-a6a1-488a-8d84-5c76d4402d7c
+:ROAM_REFS: https://www.youtube.com/watch?v=JVIqp_lIwZg
+:mtime:    20240419042730 20240321050030
+:ctime:    20240321050030
+:END:
+#+title: Why Do I Avoid Sci-fi? - YouTube
+#+filetags: :ai_safety:videos:robert_miles:science_communication:ai_alignment:
+* Science Fiction
+
+People get bogged down in the specifics.
+** Chess
+Amateur chess player thinks they can beat Magnus Carlson, because they know a really good chess opening.
+
+* New Term
+AI Alignment

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       b83058df-677b-4200-bd79-3bd89c0e7221
+:mtime:    20240419042752 20240322205110
+:ctime:    20240322205014
+:END:
+#+title: Automation
+ #+filetags: :automation:rigging:movement:suspension:rotation:translation:

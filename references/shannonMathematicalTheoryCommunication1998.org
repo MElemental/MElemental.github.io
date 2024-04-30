@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5f6da6e5-3670-4cef-a59a-4c0aba050515
+:ROAM_REFS: @shannonMathematicalTheoryCommunication1998
+:mtime:    20240419042734 20240320211608
+:ctime:    20240320211608
+:END:
+#+filetags: :mathematics:information_theory:claude_shannon:
+#+title: Shannon, Weaver - The Mathematical Theory of Communication
+pdf: /home/microelemental/Zotero/storage/XFIRUW3A/Shannon and Weaver - 1998 - The mathematical theory of communication.epub
+* zotero notes

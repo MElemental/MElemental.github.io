@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b16e1034-526a-4766-98f1-23b4b51ceb36
+:ROAM_REFS: @shannonMathematicalTheoryCommunication1948
+:mtime:    20240419042748 20240331192241
+:ctime:    20240331192241
+:END:
+#+title: Shannon, C. E. - A Mathematical Theory of Communication
+pdf: zotero://open-pdf/library/items/PFGFUDGP?Shannon - 1948 - A Mathematical Theory of Communication.pdf
+* zotero notes

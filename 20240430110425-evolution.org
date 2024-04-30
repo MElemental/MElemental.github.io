@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3145801f-2756-475d-a934-b10d604de7bb
+:END:
+#+title: evolution
+#+filetags: :evolution:biology:mutation:natural_selection:genetic_drift:
+
+* Computational modes
+** Stochastic models
+** [[id:a2c8c554-858d-46bc-8e0e-0bbbd1b9e58f][gradient descent]]

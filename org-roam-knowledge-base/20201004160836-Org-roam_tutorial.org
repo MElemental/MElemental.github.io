@@ -1,0 +1,141 @@
+:PROPERTIES:
+:ID:       b5ad19df-c227-49f0-8079-56d5ff96da00
+:ROAM_ALIASES: Tutorial Start Beginning
+:mtime:    20240419042749 20240406220611
+:ctime:    20201004160836
+:END:
+#+filetags: :learning:org_roam:beginning:start:tutorial:
+#+title: Org-Roam Tutorial File
+* Org-roam Tutorial
+* Chapter 5 Getting Started
+  This is some post install setup stuff.
+#+begin_quote
+For this tutorial, create an empty directory, and set org-roam-directory:
+
+(make-directory "~/org-roam")
+(setq org-roam-directory "~/org-roam")
+#+end_quote
+I did mine in a different directory. Make the directory
+
+#+begin_quote
+We recommend starting org-roam-mode on startup:
+
+(add-hook 'after-init-hook 'org-roam-mode)
+#+end_quote
+
+#+begin_quote
+Let us now create our first note.
+Call M-x org-roam-find-file.
+This shows a list of titles for notes that reside in org-roam-directory.
+It should show nothing right now, since there are no notes in the directory.
+Entering the title of the note you wish to create, and pressing RET should begin the note creation process.
+This process uses org-capture’s templating system, and can be freely customized (see The Templating System).
+Using the default template, pressing C-c C-c finishes the note capture.
+Running M-x org-roam-find-file again should show the note you have created, and selecting that entry will bring you to that note.
+
+The crux of Org-roam is making it easy to create notes, and link them together.
+To link notes together, we call M-x org-roam-insert.
+This brings up a prompt with a list of title for existing notes.
+Selecting an existing entry will create and insert a link to the current file.
+Entering a non-existent title will create a new note with that title.
+Good usage of Org-roam requires liberally linking files: this facilitates building up a dense knowledge graph of inter-connected notes.
+
+Org-roam provides an interface to view backlinks.
+It shows backlinks for the currently active Org-roam note, along with some surrounding context.
+To toggle the visibility of this buffer, call M-x org-roam.
+#+end_quote
+
+* Chapter 6 Anatomy of an Org-roam File
+
+  Started in chapter 6 because the Anatomy of an Org-roam File actuall gave things to work with.
+
+** 6.1 Titles and aliases
+   See the title and roam_alias org properties for examples.
+
+** 6.2 Tags
+
+*** Variable :: org-roam-tag-sources
+    Determines what the tag sources are.
+    default value is ='(prop)=
+    can be changed to include 'all-directories 'last-directory or 'first directory.
+
+** 6.3 File-refs
+
+   This will have to be revisited later. It includes both org-roam protocol calls and org-ref citations
+   Each ref is unique, but I'm not sure if it means 1 to 1 for links to files. they are denoted by the property =#+roam_key=
+
+* Chapter 7 The Templating System
+** 7.1
+  #+BEGIN_SRC elisp
+     ("d" "default"
+      plain (function org-roam--capture-get-point)
+        "%?"
+        :file-name "%<%Y%m%d%H%M%S>-${slug}"
+        :head "#+title: ${title}\n"
+        :unnarrowed t)
+ #+END_SRC
+
+*** Line 1 is the keystroke and the descrpition
+
+*** Line 2 is the type of template and it's input
+
+*** Line 3 is the template string
+
+*** Line 4 is the file title.
+
+    This is where org-roam-capture starts to get different from org-capture
+
+*** Line 5 is the head or preamble to the org file.
+
+*** Line 6 is an optional parameter that shows the whole file in a capture.
+
+** 7.2
+Basically see the main manual [[https://orgmode.org/manual/Template-expansion.html#Template-expansion][Template expansion (The Org Manual)]]
+
+* Chapter 8 Customization Options Basically
+
+* Chapter 9 Inserting Link
+  Since I'm interested in keeping this generally independent of roam, I won't try to use the roam link syntax.
+  Therefore I will skip most of this chapter.k
+
+  But it is useful to know org-roam-insert is the function to insert links. I will try that here:
+
+ [[id:982a2b3c-e3bf-4e5c-9745-f70ae10e7f53][Vim Keybinds]]
+
+* Chapter 10 Navigating Around
+  Some index file which I'm not quite sure what it does yet.
+* Chapter
+#+DOWNLOADED: https://www.orgroam.com/img/logo.png @ 2020-10-05 11:41:42
+[[file:Chapter_14_Roam_Protocol/2020-10-05_11-41-42_logo.png]]
+14 Roam Protocol
+
+** roam-file
+   Used to make graphs
+
+** roam-ref
+   Used for making roam ref's from the browser.
+   This is the bookmarklet for accomplishing this.
+  #+BEGIN_SRC javascript
+  javascript:location.href =
+'org-protocol://roam-ref?template=r&ref='
++ encodeURIComponent(location.href)
++ '&title='
++ encodeURIComponent(document.title)
+#+END_SRC
+
+[[id:e2cadf42-7d7f-4751-a14f-c24dd5594a27][The roam-ref protocol (Org-roam User Manual)]]
+
+* Chapter 16
+  I don't know if this is immediately applicable
+ [[id:e4354590-539c-402b-835e-85093a717541][Diagnosing and Repairing Files (Org-roam User Manual)]]
+
+* Chapter 17 Finding unlinked references
+ [[id:441cd5d3-ab2e-4ae6-b137-706c7ab162f0][Finding Unlinked References (Org-roam User Manual)]]
+  This is pretty useful!
+
+  =org-roam-unlinked-references=
+
+* Chapter 18 Performance optimizations
+  Not to interested atm
+
+* Look at the appendix

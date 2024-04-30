@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       bbc78695-e3dc-4dfa-90ca-5dab51af77c3
+:mtime:    20240419042753 20240322212654
+:ctime:    20240320231047
+:END:
+#+title: Color
+#+filetags: :wavelength:main:color:
+* Introduction
+
+** [[id:bf1b6c25-cd8b-4490-94ed-8097d97f68c5][The Amazing Math behind Colors! - YouTube]]
+
+* Physical Light
+
+* Perception
+
+** Trichromacy
+
+** Opponence Process
+
+* Chromaticity
+
+* Displays
+Screens, Projectors and use various [[id:fe0e9416-19a3-4348-b76b-73363fdc89e0][RGB Color Spaces]].
+
+* Bibliography
+
+[cite:@kuvinasaydakiAmazingMathColors2022]

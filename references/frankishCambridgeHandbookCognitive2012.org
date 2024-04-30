@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5e723cbb-2154-47e3-bea6-255b45385dc3
+:ROAM_REFS: @frankishCambridgeHandbookCognitive2012
+:mtime:    20240419042734 20240331185412
+:ctime:    20240331185412
+:END:
+#+title: Frankish, Keith and Ramsey, William M. - The Cambridge Handbook of Cognitive Science
+#+filetags: :computer:artificial_intelligence:cognitive_science:philosophy_of_mind:mind:
+pdf: zotero://open-pdf/library/items/Z5PKR5ZX?Keith Frankish, William M. Ramsey (eds) - The Cambridge Handbook of Cognitive Science-Cambridge University Press (2012).pdf
+
+see also [cite:@frankishCambridgeHandbookArtificial2014]
+
+* zotero notes

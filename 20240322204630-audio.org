@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f615e59a-1b4f-4a36-8d1a-fce49bf683e9
+:mtime:    20240419042804 20240322204654
+:ctime:    20240322204630
+:END:
+#+title: live audio production
+ #+filetags: :audio:sound:music:

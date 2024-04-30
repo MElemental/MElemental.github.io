@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       71f58f7a-aa92-4ee7-a23f-c69930f88f11
+:mtime:    20240419042737 20240401074359
+:ctime:    20240322204847
+:END:
+#+title: Lighting
+ #+filetags: :lighting:optics:color:visuals:

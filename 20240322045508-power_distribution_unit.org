@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       a4653e16-456a-4127-85f5-8c5d536bea16
+:mtime:    20240429122816 20240419042745 20240322054217
+:ctime:    20240322045508
+:ROAM_ALIASES: "power distro"
+:END:
+#+TITLE: Power Distribution Unit
+#+filetags: :audio:electrical_power:stagehand:stagecraft:power_distribution:
+
+
+power distros usually take in [[id:21cd2a48-a9bb-4564-b42d-6c94b583f0a8][3-phase power]].
+* Types of Units
+
+** Audio Distribution Unit
+# Isotransformer?
+Designed to for especially low noise applications.
+
+* Connections
+
+** In
+
+*** 3-Phase feeder cable
+
+** Out
+
+*** [[id:7b0de39e-0dc0-405b-8587-31064d8f4ab3][Socapex]]
+
+*** [[id:9339d3ae-7fe7-449e-9c88-d8e07fea73e0][NEMA 5]]

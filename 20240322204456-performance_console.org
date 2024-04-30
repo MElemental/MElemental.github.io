@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1e8804b5-bcad-4065-9a2a-d48ab29a6c3a
+:mtime:    20240419042728 20240322205631
+:ctime:    20240322204456
+:END:
+#+title: Performance Console
+ #+filetags: :controller:audio:video:lighting:
+ Consoles control features of a perfomance such as [[id:f615e59a-1b4f-4a36-8d1a-fce49bf683e9][audio]], [[id:4b68a874-9d45-4eb6-9b1d-57c500d21a7a][video]], [[id:71f58f7a-aa92-4ee7-a23f-c69930f88f11][lighting]], and [[id:b83058df-677b-4200-bd79-3bd89c0e7221][automation]].
+ Typically uses an [[id:9339d3ae-7fe7-449e-9c88-d8e07fea73e0][Edison Cable]] to [[id:dcd41c7c-2452-48ab-b860-ab6f6cf34282][IEC 60320 C13-C14]] connector.
+* Audio Consoles
+** Behringer X32
+* Video Consoles
+**
+* Lighting Consoles
+** GrandMA3
+* Automation Consoles

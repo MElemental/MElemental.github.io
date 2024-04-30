@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       441cd5d3-ab2e-4ae6-b137-706c7ab162f0
+:ROAM_REFS: https://www.orgroam.com/manual/Finding-Unlinked-References.html#Finding-Unlinked-References
+:mtime:    20240419042732 20240311002132
+:ctime:    20240311002132
+:END:
+#+title: Finding Unlinked References (Org-roam User Manual)
+
+I should use this for finding words that aren't linked.

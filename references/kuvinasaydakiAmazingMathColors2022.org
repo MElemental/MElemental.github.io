@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       3bdb6e54-a072-4c06-a1c6-92441fe03a62
+:ROAM_REFS: @kuvinasaydakiAmazingMathColors2022
+:mtime:    20240419042731 20240327075911
+:ctime:    20240327075911
+:END:
+#+filetags: :chromaticity:cone_cells:color_spaces:color:photons:rgb:hsv:color_schemes:luminescence:
+#+title: Kuvina Saydaki - The Amazing Math behind Colors!
+pdf:
+In this video, I talk about the math and science of colors for 42 minutes.  Topics include cone cell response functions, electromagnetic radiation, spectral colors, luminance, color spaces, parametric equations, normal curves, mono and polychromatic light, emission spectra, spectral power distributions, chromaticity diagrams, linear transformations, the physics of diffuse reflection and light sources, blackbody radiation, sunlight, refraction, rainbows, rayleigh scattering, fluorescence, LEDs, color gamuts, CRT TV, LCD screens, CMYK printers, the RGB cube, binary, hexadecimal codes, the HSV color space, cylinder and cone, and color schemes.  This is my entry in #SoME2
+
+Corrections/Clarifications:
+37:10 I misspoke and said m1 instead of m2.  What is shown on screen is correct.
+22:12 On screen it says λ = f/c, but this is wrong.  The correct formula is λ = c/f
+I have been told by some commenters that the long cone responsivity graph has a smaller, secondary peak, in the shorter wavelengths, and this is a reason why monochromatic violet appears more red than a pure blue.  I have found conflicting information on this though.  Either way, the way the brain interprets colors is extremely complicated, involving something known as the opponent process.
+https://en.wikipedia.org/wiki/Opponen...
+
+Intro song: 1812 overture by Tchaikovsky (specifically the U Vorot Vorot part)
+Outro song: Waltz of the Flowers also by Tchaikovsky
+
+Chapters:
+* 0:00 Intro
+* 1:04 Cone cells
+SML color space
+[[attachment:1280px-Cones_SMJ2_E.svg.png]]
+
+#+caption: Noramlized responsivity curve source: [@stockmanSpectralSensitivitiesHuman1993]
+
+* TODO 5:10 [[id:175c332b-8650-4375-ad83-21b28bd00ef9][Spectral colors]]
+Spectral colors are colors that are correlated with the visible light spectrum of electromagnetism.
+It does not inlcude uncorrelated polychromatic colors such as cyan or magenta.
+
+Luminance refers to a certain wavelength of light hits a persons
+** Luminance
+* TODO 8:20 [[id:93e55fc1-479b-4504-9900-c69b45683bef][Color spaces]]
+
+* 13:34 Polychromatic light
+* 16:13 Chromaticity diagram
+* 21:09 Physics of reflection
+* 23:25 Blackbody radiation
+* 26:58 Luminescence
+* 28:42 Computer Screens
+* 30:58 Printers
+* 32:28 RGB cube
+* 35:23 HSV color space
+* 40:00 Color schemes
+* 41:46 outro
+* Introduction
+* Light
+* zotero notes

@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       71819bef-7529-4ad3-a95b-d6723f581d77
+:ROAM_REFS: @olsonPersonalIdentity2023
+:mtime:    20240419042736 20240323195600
+:ctime:    20240323195600
+:END:
+#+title: Olson, Eric T. - Personal Identity
+#+filetags: :personhood:personal_identity:
+pdf: zotero://open-pdf/library/items/EHY8AL3G?Olson\_2023\_Personal Identity.pdf
+
+This article avoids using the term self.
+
+* Introduction
+
+Problems of personal identity:
+
+** Who Am I?
+
+   Outside of philosophy Personal Identity refers to properties a person feels sense of attachment or ownership.
+
+** Personhood
+
+   What counts as a person? Do fertilized eggs have personhood? Do digitized brains have personhood?
+
+
+** Persistence
+
+   What makes a person continue to exist as opposed to stop existing?
+
+** Evidence
+
+   How do we differentiate between who is who?
+
+** Population
+
+   How do we count people?
+
+
+** What am I?
+
+   What makes us human people? or persons in general. This is different from personhood its trying to account for our material makeup as opposed to our function makeup/
+
+** What concepts truely matter in identity?
+
+* Related
+[[id:9003695b-ef75-47a9-8377-5889dace643a][Coseru, Christian - Mind in Indian Buddhist Philosophy]]
+* Bibliography
+[cite:@parfitPersonalIdentity1971]
+* zotero notes

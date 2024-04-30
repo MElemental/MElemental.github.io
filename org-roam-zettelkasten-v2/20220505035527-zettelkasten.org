@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1f2728d2-482f-4e66-98b5-ca7348c55e44
+:mtime:    20240419042728 20240321060112
+:ctime:    20220505035527
+:END:
+#+TITLE: Zettelkasten
+ #+filetags: :connection:zettelkasten:niklas_luhmann:research:creativity:note_taking:
+* Origins
+
+Niklas Luhmann was a German Sociologist that published over 50 books and hundreds of papers in his life.
+Zettelkasten is german for Slip Box.
+It is used by academics and creatives that need to connect a wide array of ideas.
+
+* Contexts

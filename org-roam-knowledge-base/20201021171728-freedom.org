@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a25d859d-99c1-4694-866d-0b7b20ed0d97
+:mtime:    20240419042743 20240320203016
+:ctime:    20201021171728
+:END:
+#+title: Freedom
+#+filetags: :freedom:meanings:
+
+* What does it mean?
+
+
+* Journey
+
+  Troubled childhood
+  Libertarianism?
+ [[file:20201101182614-free_software_movement.org][Free Software]]

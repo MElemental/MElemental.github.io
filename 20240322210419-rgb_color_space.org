@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fe0e9416-19a3-4348-b76b-73363fdc89e0
+:ROAM_ALIASES: RGB
+:mtime:    20240419042804 20240322212110
+:ctime:    20240322210419
+:END:
+#+title: RGB Color Space
+ #+filetags: :color:rgb:trichromatic:polychromatic:gamut:
+Roughly correlates to our LMS cones.

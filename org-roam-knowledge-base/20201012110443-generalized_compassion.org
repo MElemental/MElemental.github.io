@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       b5d89e03-594b-4560-952c-121183db28da
+:mtime:    20240419042750 20240320201423
+:ctime:    20201012110443
+:END:
+#+title: Generalized Compassion
+#+filetags: :against_empathy:
+
+* Main Ideas
+
+  Generalized Compassion is usually stated as a counter to empathy.
+  It means caring about all beings in general instead of the beings bound to us by kin or proximity.
+
+* Philosophy
+
+** Peter Singer
+   Peter Singer talks about how we consider it immoral for us to prefer others because of race or nationality.
+   He then extends this principle to proximity, kin, and friendship.
+   That is to say that it's immoral to prefer the well being of our friends above the well being of others.
+
+** Derek Parfit
+   Parfit talks about how the idea of the self must ultimately lead to concern for the wellbeing of others.
+   He investigates the situation of self interest in the situation where psychological branching occurs.
+   In Parfit's view, it is unjustifiable to prefer one's self over others as a result of these explorations.
+
+** Buddhism
+   In Buddhism, Empathy is seen as an earthly attachment the ultimately leads to suffering.
+   Instead one should strive toward (some word that means concern for all beings).
+
+
+* Implications
+
+
+* Citations
+[cite:@bloomEmpathyCaseRational2016]
+[cite:@parfitPersonalIdentity1971]

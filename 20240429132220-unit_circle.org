@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0c0ade61-f327-45b8-bfce-2a9ea38bbede
+:mtime:    20240429132628
+:ctime:    20240429132220
+:END:
+#+title: unit circle
+
+#+filetags: :math:circle:trigonometry:mathematics:right_triangle:sine:cosine:tangent:cotangent:
+
+* Construction
+
+The unit circle is represented as the formula:
+$x^2 + y^2 = 1$
+This produces a circle with radius 1.
+* [[id:f7833289-8575-47ec-8959-c5701fd705cd][trigonometry]]
+[[attachment:all-trig-graphs-gif_orig_large_optimized.gif]]

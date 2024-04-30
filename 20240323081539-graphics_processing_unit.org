@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1aaddec5-7288-4492-bab8-692098a50a58
+:ROAM_ALIASES: GPU
+:mtime:    20240419042727 20240417164920
+:ctime:    20240323081539
+:END:
+#+title: Graphics processing unit
+#+filetags: :graphics:parallel_processing:gpu:graphics_processing_unit:STUB:
+/Graphical Processing Units/ are computational units that perform simple but numerous computations. This makes them useful in [[roam:Machine learning]], [[roam:Graphical processing]], and other applications where the use of [[roam:parallel processing]] is useful or necessary.
+
+* Connectors
+** Power in
+** Display out
+*** [[id:ec864691-4d97-490a-9439-ad13e09a6b5d][HDMI]]
+*** [[id:92e35bbc-c662-47c2-b441-fd8695fee1f6][VESA Display Port]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       387a1422-ff3c-47a9-9ad5-6e5162caaa39
+:mtime:    20240429132129 20240429115023
+:ctime:    20240429114627
+:END:
+#+title: sinusoid wave
+#+filetags: :signal_processing:mathematics:sine:cosine:sinusoid:trigonometry:circle:sin:cos:
+[[attachment:sine-cosine-unit-circle-animation.gif]]
+* Definitions
+Sinusoid waves are based on the legs of right triangles formed on the [[id:0c0ade61-f327-45b8-bfce-2a9ea38bbede][unit circle]] with a radius of 1 as the hypotenuse.
+* [[roam:signal processing]]
+Most functions can be interpreted as a decomposition of sinusoid waves.
+this is done through a [[roam:Fourier transform]].
+* Applications
+
+** [[id:e73b36c6-55a0-451d-b5b9-0aa49cde7b4c][alternating current]]
+** [[roam:harmonic motion]]
+spring motion

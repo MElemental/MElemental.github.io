@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b
+:ROAM_ALIASES: "2024 March"
+:mtime:    20240419042734 20240417153457
+:ctime:    20240417153457
+:END:
+#+title: 2024_March
+#+filetags: :2024:March:2024_March:
+[[id:18ee20c9-41b1-42b5-9e44-26277a5bfa33][2024_Year]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d0d3dd54-2c7b-4f75-9fc8-dd5e89895143
+:mtime:    20240419042755 20240417184447
+:ctime:    20240417184248
+:END:
+#+title: AI Safety
+#+filetags: :safety:ai:artificial_intelligence:philosophy:ai_safety:
+* Introduction to AI Safety
+[[id:c15f9ddd-e04b-4c41-9d15-03ed6a99779d][Intro to AI Safety, Remastered - YouTube]]

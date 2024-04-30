@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       3e9a61d4-5a60-4ec9-8d61-336d28129a62
+:POWER_TRANSFER: YES
+:POWER_RATING: 20A 250V
+:DATA_TRANSFER: NO
+:DATA_TYPE: NA
+:mtime:    20240419042731 20240322053948
+:ctime:    20240321184611
+:END:
+#+title: Neutrik powerCon
+#+filetags: :power_connector:power_cable:stagehand:stagecraft:
+
+[[attachment:1816-NAC3FCA.jpg]] [[attachment:1819-NAC3FCB.jpg]]
+
+* Standards
+Neutrik
+* Pinout
+* Applications
+** Lighting
+** Fog Machines
+** Other FX
+
+* Connectors
+** [[id:7b0de39e-0dc0-405b-8587-31064d8f4ab3][Socapex]] breakout

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8b4f316f-20fa-4625-a742-2770dac0011b
+:mtime:    20240419042738 20240417163918
+:ctime:    20240417163303
+:END:
+#+title: Cognition
+#+filetags: :psychology:ethology:linguistics:anthropology:cognition:computation:perception:
+Cognition refers to a range of mental phenomenon related to acquisition, storage, manipulation, processing and retrieval of information.
+* [[id:a2a9f2cc-2e48-4c74-9f58-e4caae4dc267][Cognitive Revolution]]

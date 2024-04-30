@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dcd41c7c-2452-48ab-b860-ab6f6cf34282
+:POWER_TRANSFER: YES
+:AMPERAGfE:
+:VOLTAGE:
+:DATA_TRANSFER: NO
+:DATA_TYPE: NA
+:mtime:    20240419042757 20240322011038
+:ctime:    20240321065439
+:END:
+#+TITLE: IEC 60320 C13-C14
+ #+filetags: :stagecraft:electrical_power:stagehand:appliance_power:computer_power:power_connector:
+* Pins
+usually female into male.
+Rated for 15A recommended 10A.
+
+* Connectors
+** Male Edison
+usually a male [[id:9339d3ae-7fe7-449e-9c88-d8e07fea73e0][Edison Cable]] to a female IEC 60320 C13/C14 connector.

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       bf1b6c25-cd8b-4490-94ed-8097d97f68c5
+:ROAM_REFS: https://www.youtube.com/watch?v=gnUYoQ1pwes
+:mtime:    20240419042754 20240323082146
+:ctime:    20240323082146
+:END:
+#+filetags: DEPRECATED
+#+title: The Amazing Math behind Colors! - YouTube
+In this video, I talk about the math and science of colors for 42 minutes.  Topics include cone cell response functions, electromagnetic radiation, spectral colors, luminance, color spaces, parametric equations, normal curves, mono and polychromatic light, emission spectra, spectral power distributions, chromaticity diagrams, linear transformations, the physics of diffuse reflection and light sources, blackbody radiation, sunlight, refraction, rainbows, rayleigh scattering, fluorescence, LEDs, color gamuts, CRT TV, LCD screens, CMYK printers, the RGB cube, binary, hexadecimal codes, the HSV color space, cylinder and cone, and color schemes.  This is my entry in #SoME2
+
+Corrections/Clarifications:
+37:10 I misspoke and said m1 instead of m2.  What is shown on screen is correct.
+22:12 On screen it says λ = f/c, but this is wrong.  The correct formula is λ = c/f
+I have been told by some commenters that the long cone responsivity graph has a smaller, secondary peak, in the shorter wavelengths, and this is a reason why monochromatic violet appears more red than a pure blue.  I have found conflicting information on this though.  Either way, the way the brain interprets colors is extremely complicated, involving something known as the opponent process.
+https://en.wikipedia.org/wiki/Opponen...
+
+Intro song: 1812 overture by Tchaikovsky (specifically the U Vorot Vorot part)
+Outro song: Waltz of the Flowers also by Tchaikovsky
+
+Chapters:
+* 0:00 Intro
+* 1:04 Cone cells
+SML color space
+* 5:10 Spectral colors
+* 8:20 Color spaces
+* 13:34 Polychromatic light
+* 16:13 Chromaticity diagram
+* 21:09 Physics of reflection
+* 23:25 Blackbody radiation
+* 26:58 Luminescence
+* 28:42 Computer Screens
+* 30:58 Printers
+* 32:28 RGB cube
+* 35:23 HSV color space
+* 40:00 Color schemes
+* 41:46 outro
+* Introduction
+* Light

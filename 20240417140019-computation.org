@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       00775a4b-e515-42f1-896d-eae818f77481
+:mtime: 20240419042725
+:ctime:    20240417140019
+:END:
+#+title: Computation
+#+filetags: :computation:computer:calculation:arithmetic:mathematics:
+
+Computation refers to any calculation that is well defined.
+
+* Types of computation
+
+** State Models
+
+*** [[roam:Turing machine]]
+
+*** [[roam:Finite state automaton]]
+
+** Functional Models
+
+*** [[roam:Lambda calculus]]
+
+** [[roam:Connectionism]]
+Connectionism refers to a type of computation where a network of perceptual units and gets reweighed after it has been given feedback.
+Connectionist models are usually good at pattern recognition and initially poor at logical methods.
+
+* [[roam:Computability]]
+
+Computability refers to the field of mathematics that studies computation.
+
+* [[roam:Turing Completeness]]

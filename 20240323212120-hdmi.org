@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       ec864691-4d97-490a-9439-ad13e09a6b5d
+:mtime:    20240419042800 20240328230827
+:ctime:    20240323212120
+:END:
+#+title: HDMI
+#+filetags: :audio:video:multimedia:display:data_cable:stagehand:stagecraft:
+
+[[attachment:High_Definition_Multimedia_Interface_Logo.svg.png]]
+
+* Standardized by
+
+HDMI Liscensing, LLC
+
+* Uses
+
+** Monitors and TVs
+
+Sends video and audio information to [[id:8ab6b612-c794-4ab8-89d2-1a0613c324e8][TVs]] and [[id:1c2021de-b9da-4923-99ec-fded17c2ad4c][display monitors]].
+
+* Pinout
+
+[[attachment:HDMI_Connector_Pinout.svg.png]]
+|  1 | TMDS Data2+                                                                                                              |
+|  2 | TMDS Data2 Shield                                                                                                        |
+|  3 | TMDS Data2−                                                                                                              |
+|  4 | TMDS Data1+                                                                                                              |
+|  5 | TMDS Data1 Shield                                                                                                        |
+|  6 | TMDS Data1−                                                                                                              |
+|  7 | TMDS Data0+                                                                                                              |
+|  8 | TMDS Data0 Shield                                                                                                        |
+|  9 | TMDS Data0−                                                                                                              |
+| 10 | TMDS Clock+                                                                                                              |
+| 11 | TMDS Clock Shield                                                                                                        |
+| 12 | TMDS Clock−                                                                                                              |
+| 13 | Consumer Electronics Control (CEC)                                                                                       |
+| 14 | Reserved (HDMI 1.0–1.3a) Utility/HEAC+ (HDMI 1.4+, optional, HDMI Ethernet Channel (HEC) and Audio Return Channel (ARC)) |
+| 15 | SCL (I2C serial clock for DDC)                                                                                           |
+| 16 | SDA (I2C serial data for DDC)                                                                                            |
+| 17 | Ground (for DDC, CEC, ARC, and HEC)                                                                                      |
+| 18 | +5 V (up to 50 mA)                                                                                                       |
+| 19 | Hot Plug Detect (all versions) HEAC− (HDMI 1.4+, optional, HDMI Ethernet Channel and Audio Return Channel)               |

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b73304a7-25e1-4b61-bec7-bb7c3ce09e22
+:mtime:    20240419042751 20240331190617
+:ctime:    20240331190021
+:END:
+#+title: Information Theory
+#+filetags: :information:communication:bit:STUB:
+
+* Origins
+Claude Shannon introduced the first seminal paper on information theory in /A Mathematical Theory of Communication/.[cite:@shannonMathematicalTheoryCommunication1948]
+
+* Additional Resources
+
+[cite:@shannonMathematicalTheoryCommunication1998]

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1aaec11d-8414-445e-9c69-180722ef09a2
+:ROAM_REFS: @bloomEmpathyCaseRational2016
+:mtime:    20240419042727 20240322011252
+:ctime:    20240322011252
+:END:
+#+filetags: :caring:compassion:einfühlung:empathy:entscheidungsfindung:psychology:psychology/social_psychology:social_psychology:social_science:social_science/sociology:sociology:
+#+title: Bloom, Paul - Against Empathy: The Case for Rational Compassion
+pdf: zotero://open-pdf/library/items/AMUWSUQM?Against
+* zotero notes

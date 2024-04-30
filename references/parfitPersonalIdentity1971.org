@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       9388f82f-9fff-4a06-9f74-a1e1306f2ce9
+:ROAM_REFS: @parfitPersonalIdentity1971
+:mtime:    20240419042740 20240320211606
+:ctime:    20240320211606
+:END:
+#+title: Parfit - Personal Identity
+#+filetags: :personal_identity:psychological_fission:psychological_fusion:
+pdf: zotero://open-pdf/library/items/8QUP95NY?Parfit - 1971 - Personal Identity.pdf
+* zotero notes
+** (2024-18-3), 9:58:09 PM:
+*** [[zotero://open-pdf/library/items/8QUP95NY?p3][note p3]]
+ Identity vs Self
+*** [[zotero://open-pdf/library/items/8QUP95NY?p3][note p3]]
+#+BEGIN_QUOTE
+These cases are not covered by the criteria of personal identity that we actually question about personal identity.
+#+END_QUOTE
+ \#Psychological Fission:Psychological Fusion ``These cases are not covered by the criteria of personal identity that we actually question about personal identity.'' Fusion and Fission primarily.
+*** [[zotero://open-pdf/library/items/8QUP95NY?p3][note p3]]
+#+BEGIN_QUOTE
+I suspect that some of them could. (Some, for instance, might become scientifically possible.) But I shall claim that even if they did they would present no problem.
+#+END_QUOTE
+ ``I suspect that some of them could. (Some, for instance, might become scientifically possible.) But I shall claim that even if they did they would present no problem.'' It doesn't matter if they're practically achievable.
+*** [[zotero://open-pdf/library/items/8QUP95NY?p3][note p3]]
+#+BEGIN_QUOTE
+My targets are two beliefs: one about the nature of personal identity, the other about its importance. The first is that in these cases the question about identity must have an answer. have an answer.
+#+END_QUOTE
+ ``My targets are two beliefs: one about the nature of personal identity, the other about its importance. The first is that in these cases the question about identity must have an answer. have an answer.'' The nature and the importance of Personal identity are the two targets.
+*** [[zotero://open-pdf/library/items/8QUP95NY?p20][note p20]]
+ Psychological fission reiterated
+*** [[zotero://open-pdf/library/items/8QUP95NY?p22][note p22]]
+ I like to think of this as the honey comb case of personal identity.
+*** [[zotero://open-pdf/library/items/8QUP95NY?p24][note p24]]
+ This is the methusulah case. Living forever doesn't mean immortality.}

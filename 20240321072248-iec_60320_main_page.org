@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       69d1972a-e34e-4508-822a-350505d17b33
+:POWER_TRANSFER: YES
+:AMPERAGE:
+:VOLTAGE:
+:DATA_TRANSFER: NO
+:DATA_TYPE: NA
+:mtime:    20240429151333 20240419042736 20240322011036
+:ctime:    20240321072248
+:END:
+#+TITLE: IEC 60320 Main Page
+ #+filetags: :iec:power_connectors:appliances:stagehand:stagecraft:
+
+ Electrical connectors established by the International Electrotechnical Commission.
+
+* Main points
+
+Connectors for appliances
+
+* Connectors
+
+[[attachment:IEC-60320-connector-standard.jpg]]
+** [[id:dcd41c7c-2452-48ab-b860-ab6f6cf34282][IEC 60320 C13-C14]]
+*** Common uses
+Computer power supplies

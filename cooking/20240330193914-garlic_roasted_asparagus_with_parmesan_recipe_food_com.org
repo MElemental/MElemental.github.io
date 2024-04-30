@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       3bfa93fa-984e-4c67-8932-19cc3e5d6937
+:ROAM_REFS: https://www.food.com/recipe/garlic-roasted-asparagus-with-parmesan-88945
+:mtime:    20240419042731 20240331151600
+:ctime:    20240330193914
+:END:
+#+title: Garlic Roasted Asparagus With Parmesan Recipe - Food.com
+#+filetags: :recipes:cooking:asparagus:parmesan:garlic:olive_oil:
+
+* Garlic Roasted Asparagus With Parmesan
+:PROPERTIES:
+:source-url: https://www.food.com/recipe/garlic-roasted-asparagus-with-parmesan-88945
+:servings: 2-3 serving(s)
+:prep-time: 10 minutes
+:cook-time: 12 minutes
+:ready-in: 22 minutes
+:END:
+** Ingredients
+
+- 1   lb    fresh asparagus
+- 10       garlic cloves, minced
+- 3   tablespoons    olive oil
+- salt (to taste)
+- pepper (to taste)
+- 1/4  cup   freshly grated parmesan cheese (may use Asiago)
+** Directions
+
+1. Heat oil and garlic in a small saucepan over low heat until garlic becomes golden- several minutes (do not burn garlic); allow oil to cool.
+2. Bend asparagus gently at a natural point and when it snaps, discard end pieces.
+3. Place asparagus on a lipped roasting pan and toss with infused olive oil and garlic, coating all pieces.
+4. Line up asparagus and push together, season with salt and pepper, then sprinkle with grated Parmesan.
+5. Roast in a preheated oven at 400&deg;F for 12 minutes or until cooked to your liking.
+6. Serve at once.

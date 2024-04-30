@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       92e35bbc-c662-47c2-b441-fd8695fee1f6
+:mtime:    20240419042740 20240323222441
+:ctime:    20240323212427
+:END:
+#+title: VESA Display Port
+ #+filetags: :display:computer_monitor:locking_connector:display_port:
+[[attachment:DisplayPort.svg.png]]
+* Use
+
+** Monitors
+Display Port is primarily used for [[id:1c2021de-b9da-4923-99ec-fded17c2ad4c][Display Monitor]]
+** Other Ueses
+** [[id:f615e59a-1b4f-4a36-8d1a-fce49bf683e9][Audio]]
+
+* Pinout
+
+[[attachment:DisplayPort_Connector.svg.png]]
+
+| Pin 1  | ML_Lane 0 (p)[a] | Lane 0 (+)                         |
+| Pin 2  | GND              | Ground                             |
+| Pin 3  | ML_Lane 0 (n)[a] | Lane 0 (−)                         |
+| Pin 4  | ML_Lane 1 (p)[a] | Lane 1 (+)                         |
+| Pin 5  | GND              | Ground                             |
+| Pin 6  | ML_Lane 1 (n)[a] | Lane 1 (−)                         |
+| Pin 7  | ML_Lane 2 (p)[a] | Lane 2 (+)                         |
+| Pin 8  | GND              | Ground                             |
+| Pin 9  | ML_Lane 2 (n)[a] | Lane 2 (−)                         |
+| Pin 10 | ML_Lane 3 (p)[a] | Lane 3 (+)                         |
+| Pin 11 | GND              | Ground                             |
+| Pin 12 | ML_Lane 3 (n)[a] | Lane 3 (−)                         |
+| Pin 13 | CONFIG1          | Connected to ground[b]             |
+| Pin 14 | CONFIG2          | Connected to ground[b]             |
+| Pin 15 | AUX CH (p)       | Auxiliary channel (+)              |
+| Pin 16 | GND              | Ground                             |
+| Pin 17 | AUX CH (n)       | Auxiliary channel (−)              |
+| Pin 18 | Hot plug         | Hot plug detect                    |
+| Pin 19 | Return           | Return for power                   |
+| Pin 20 | DP_PWR           | Power for connector (3.3 V 500 mA) |
+
+This is the pinout for source-side connector, the sink-side connector pinout will have lanes 0–3 reversed in order; i.e., lane 3 will be on pin 1(n) and 3(p) while lane 0 will be on pin 10(n) and 12(p).
+Pins 13 and 14 may either be directly connected to ground or connected to ground through a pulldown device.

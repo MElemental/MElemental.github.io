@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       988a1f70-6272-4cbf-ad42-6ab03f787e18
+:mtime:    20240419042741 20240326203617
+:ctime:    20240321200720
+:END:
+#+TITLE: Composition (visual)
+#+filetags: :visual_art:composition:ratios:frames:painting:photography:advertisement:graphic_design:
+* Elements of Art
+** Line
+** Shape
+** [[id:bbc78695-e3dc-4dfa-90ca-5dab51af77c3][Color]]
+** Texture
+** Value
+** Structure
+*** Rule of thirds
+* Painting
+* [[id:f1fd751f-5939-4a86-b6fd-e2b82eab6ebb][Photography]]
+* [[id:4b68a874-9d45-4eb6-9b1d-57c500d21a7a][Video]]
+Video has a time element involved.
+** Staging and Blocking

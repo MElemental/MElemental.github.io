@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       9ff3fce5-1180-4014-b502-d9107b2cef10
+:mtime:    20240419042743 20240331184815
+:ctime:    20240331183209
+:END:
+#+title: Behaviorism
+#+filetags: :psychology:behaviorism:bf_skinner:john_watson:
+A science of behavior is possible.
+* Paradigm Shifts
+Behaviorism originated in John Watson’s growing conviction that both Jamesian [[roam:functional psychology]] and Wundtian [[roam:introspectionism]] suffered from insufficient empirical grounding and objectivity, largely in consequence of their focus on mental activity or contents [cite:@frankishCambridgeHandbookCognitive2012].
+* [[id:6933d2ab-22fb-4c01-ab81-57f7802729e2][radical behaviorism]]
+B.F. Skinner's radical behaviorism repudiates internal mental states for explaining behavior.
+Believed all behavior was a result of operant conditioning.

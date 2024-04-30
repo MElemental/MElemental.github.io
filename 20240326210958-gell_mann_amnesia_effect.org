@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9b474203-4de7-4306-86ed-a9331ede0a9c
+:mtime:    20240419042742 20240326211112
+:ctime:    20240326210958
+:END:
+#+title: Gell-Mann Amnesia Effect
+#+filetags: :bias:expertise:media:gell-mann_amnesia_effect:
+
+#+begin_quote
+Experts forget how badly their own subject is treated in media and believe that subjects they don’t know much about are treated more competently by the same media.
+#+end_quote

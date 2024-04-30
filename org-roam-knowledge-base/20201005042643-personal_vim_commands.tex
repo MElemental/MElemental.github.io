@@ -1,0 +1,171 @@
+% Created 2024-03-22 Fri 00:58
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Rudolf Jovero}
+\date{\today}
+\title{Personal Vim Commands}
+\hypersetup{
+ pdfauthor={Rudolf Jovero},
+ pdftitle={Personal Vim Commands},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 29.2 (Org mode 9.7)}, 
+ pdflang={English}}
+\usepackage{biblatex}
+\addbibresource{~/Documents/org-roam/references/zoteromain.bib}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Navigation Table}
+\label{sec:org4f42fe6}
+\begin{center}
+\begin{tabular}{llll}
+Keybind & Description & Keybind & Description\\
+\hline
+ &  & \(\vert{}\) & Start at column 0\\
+h & move cursor left & 0 & start of the current line\\
+j & move cursor down & \_ (\^{}) & first nonblank character of line\\
+k & move cursor up & \$ & end of the current line\\
+l & move cursor right & g\_ & last nonblank character of line\\
+ &  &  & \\
+<N><b> & repeat <b>ind <N> times &  & \\
+ &  &  & \\
+\hline
+H & Top of screen & C-f & forward one full screen\\
+zt & current cursor to top & C-u & forward (up) one half screen\\
+M & Middle of screen & C-y & View pa(y)ne up\\
+zz (z.) & current cursor to center & C-b & back one full screen\\
+L & Bottom of screen & C-d & back (down) one full screen\\
+zb & current cursor to bottom & C-e & View end down\\
+C-l & Toggle current cursor TMB &  & \\
+\hline
+N\% & go to N percentage of line & gg & beginning of file\\
+NG (ngg) & go to Nth absolute line & G & end of file\\
+\hline
+w & go to next word. & W & go to next WORD.\\
+b & go back a word. & B & go back a WORD.\\
+e & go to end of next word & E & go to end of next WORD.\\
+ge & go back a end of word & gE & go back a end of WORD.\\
+ &  &  & \\
+( & forward a sentence & ) & backward a sentence\\
+\{ & forward a paragraph & \} & backward a paragraph\\
+$\backslash$[$\backslash$[ & forward a \{\ldots{}\} section & ]] & backward a \{\ldots{}\} section\\
++ & next line 1st nwsp & - & previous line 1st nwsp\\
+\hline
+n & next search & N & previous search\\
+ &  &  & \\
+* & forward current WORD pattern & \# & backward current WORD pattern\\
+g* & forward current word pattern & g\# & backward current word pattern\\
+gd & goto definition &  & \\
+\hline
+ &  &  & \\
+\% & matching brace & `` & jump to previous location\\
+C-o & backward jump & C-i & forward jump\\
+f<char> & next <char> in line & F<char> & previous <char> in line\\
+t<char> & until next <char> in line & T<char> & until previous <char> in line\\
+; & forward repeat <char>  cmd & , & backward repeat <char> cmd\\
+m<charlab> & mark<charlab> &  & \\
+`<charlab> & goto <charlab> line, column & '<charlab> & Goto <charlab> line, first nonblank\\
+ &  &  & \\
+\end{tabular}
+\end{center}
+\section{Edit Commands}
+\label{sec:org8bacbbe}
+
+\subsection{Insert and Replace}
+\label{sec:org2b893f3}
+\begin{center}
+\begin{tabular}{llll}
+Keybind & Description & Keybind & Description\\
+i & insert before cursor & a & append after cursor\\
+I & insert start line & A & append end line\\
+p & paste before cursor* & P & Paste after cursor*\\
+o & open insert above line & O & open insert below line\\
+u & undo & C-r & redo\\
+< & unindent & > & indent\\
+J & Join current line w/next line & C-j & insert line (kind of)\\
+: & expression-substitution & \textasciitilde{} & reverse case, forward\\
+. & repeat & \& & repeat last ex substitution\\
+ESC & escape insert state & C-$\backslash$ & insert\\
+=\_ & indent \_ &  & \\
+\end{tabular}
+\end{center}
+\subsection{Cut and Copy}
+\label{sec:org4ca2375}
+\begin{center}
+\begin{tabular}{llll}
+Keybind & Description &  & \\
+c\_ & change (delete+insert) & C & change til EOL\\
+d\_ & delete & D & delete til EOL\\
+y\_ & Yank (copy) & Y & Yank Entire Line\\
+r & replace char & R & replace through EOL, then enter insert\\
+s & substitutes(d+i) character & S & Substitutes entire line\\
+x & delete char & X & delete char backwards\\
+\end{tabular}
+\end{center}
+\subsection{Matching}
+\label{sec:org00c8b0f}
+
+\begin{center}
+\begin{tabular}{lllll}
+ & Keybind & Description & Keybind & Description\\
+c\_/d\_/y\_ & \_t<char> & exclusive next <char> on line & \_f<char> & inclusive next <char> on line\\
+c\_/d\_/y\_ & \_t<char> & exclusive previous <char> on line & \_f<char> & inclusive previous <char> on line\\
+c\_/d\_/y\_ & \_i<*> & exclusive inner match brace & \_a<*> & inclusive inner match brace\\
+c\_/d\_/y\_ & \_I & up to start of line & \_D & up to end of line\\
+\end{tabular}
+\end{center}
+\section{Visual Selection}
+\label{sec:org2e2eea8}
+
+\begin{center}
+\begin{tabular}{ll}
+Keybind & Description\\
+v & character select\\
+V & line select\\
+C-v & block select\\
+gv & restore last visual\\
+vo & switch to other end of visual\\
+vO & switch to other end of visual?\\
+\end{tabular}
+\end{center}
+\section{File Saving}
+\label{sec:orgedd8786}
+\begin{center}
+\begin{tabular}{ll}
+ & \\
+:wq & write-quit\\
+:q! & quit\\
+ZZ & save-quit\\
+ZQ & quit\\
+ & \\
+\end{tabular}
+\end{center}
+
+    Nullam eu ante vel est convallis dignissim.
+Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.
+Nunc porta vulputate tellus.
+Nunc rutrum turpis sed pede.
+Sed bibendum.
+Aliquam posuere.
+Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.
+Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.
+Curabitur vulputate vestibulum lorem.
+Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.
+\subsection{head}
+\label{sec:orgfb4773d}
+Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+\end{document}

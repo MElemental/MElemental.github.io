@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8ecdbfe3-91ba-4196-a539-2db4813be46e
+:ROAM_REFS: @deutschPsychologyMusic2013
+:mtime:    20240421221605 20240419042739 20240418204258
+:ctime:    20240418204258
+:END:
+#+title: Deutsch - The Psychology Of Music
+pdf;zotero://open-pdf/library/items/Z85TUTEI? Diana Deutsch (Auth.) - The Psychology of Music (2013) [10.1016\_B978-0-12-381460-9.00001-8] - libgen.li (1).pdf
+
+* zotero notes

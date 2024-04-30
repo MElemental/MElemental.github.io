@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       00994f71-0709-4af9-ac22-1e820f281cb0
+:ROAM_ALIASES: Journal
+:mtime:    20240419042726 20240311002131
+:ctime:    20201005205550
+:END:
+#+title: Journal Main
+#+filetags: :Dailies:Weeklies:Monthlies:Journal:
+
+[[file:20201005005140-index.org][Index]]

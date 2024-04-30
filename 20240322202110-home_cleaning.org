@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       9c48a09d-536a-44ed-a187-bf97e8309d37
+:ROAM_ALIASES: "House Cleaning"
+:mtime:    20240419042742 20240323082345
+:ctime:    20240322202110
+:END:
+#+title: Home Cleaning
+#+filetags: :Project:home:cleaning:
+* Goals
+
+Get living area cleaned.
+
+* Tasks
+** TODO General
+
+- [ ] Close doors (cupboards, drawers, etc)
+- [ ] put things away
+- [ ] take trash out
+
+** TODO Kitchen
+
+- [ ] Make sure HEATED things are off if not being used
+- [ ] Wipe down dirty surfaces
+- [ ] put non kitchen things away
+
+** TODO Laundry
+
+- [ ] Check pockets
+
+** TODO Bathroom
+
+- [ ] Put toilet seat down.
+- [ ] refill toilet paper.
+
+** TODO Pick up things on the ground
+
+- [ ] Put trash in the trash
+- [ ] Clothes in a hamper or basket
+
+** TODO Extraneous stuff off counters
+
+- [ ] take trash off counters and put in trash
+- [ ] put writing implements in one place
+- [ ] put utensils in drawer
+
+** TODO Clear bed and couch
+
+- [ ] put stuff away
+* Dates

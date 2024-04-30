@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       7b0de39e-0dc0-405b-8587-31064d8f4ab3
+:ROAM_ALIASES: Socapex
+:POWER_TRANSFER: YES
+:AMPERAGfE:
+:VOLTAGE:
+:DATA_TRANSFER: NO
+:DATA_TYPE: NA
+:mtime:    20240429120309 20240419042737 20240322052754
+:ctime:    20240322052754
+:END:
+#+title: Socapex
+#+filetags: :stagecraft:stagehand:electrical_power:three_phase:
+* Pins
+
+There are 19 pins in Socapex.
+It is 6 sets of 3 pin electrical connections and an extra ground.
+* Power
+
+** Input
+[[file:/home/microelemental/Documents/org-roam/socapex-diagram.png]]
+
+For stage lighting (mains voltage) the standard pin assignments are:
+| Circuit Number | Live   | Neutral | Earth  |
+|              1 | Pin 1  | Pin 2   | Pin 13 |
+|              2 | Pin 3  | Pin 4   | Pin 14 |
+|              3 | Pin 5  | Pin 6   | Pin 15 |
+|              4 | Pin 7  | Pin 8   | Pin 16 |
+|              5 | Pin 9  | Pin 10  | Pin 17 |
+|              6 | Pin 11 | Pin 12  | Pin 18 |
+
+Pin 19 is unused, or connected to the cable screen in a few rare cases.
+Usually sourced from a [[id:a4653e16-456a-4127-85f5-8c5d536bea16][Power Distribution Unit]].
+
+** Output
+
+Socapex has many spiders/breakouts that can power various fixtures.
+Usually these breakout cables have 6 sets to correspond to the Socapex's 6 sets of connections.
+
+*** [[id:9339d3ae-7fe7-449e-9c88-d8e07fea73e0][NEMA 5]]
+*** [[id:3e9a61d4-5a60-4ec9-8d61-336d28129a62][Neutrik powerCon]]

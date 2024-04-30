@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7eec0c51-61c8-42c9-9101-b113b1ad3510
+:ROAM_REFS: https://git-scm.com/
+:mtime:    20240419042738 20240311002132
+:ctime:    20240311002132
+:END:
+#+title: Git
+#+filetags: :git:version_control:graph_theory:
+
+Git is a version control software. The data structure is a directed acyclic graph.

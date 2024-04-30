@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       26f87673-2230-422b-b3e5-82614371be1d
+:ROAM_ALIASES: cosine sine
+:END:
+#+title: sin and cos
+#+filetags: :#utility_function:sin:sinusoid:cos:sine:cosine:waves:
+* Construction
+
+** triangle
+$sin(\theta)=\frac{opposite}{hypotenuse}$
+$cos(\theta)=\frac{adjacent}{hypotenuse}$
+** [[id:0c0ade61-f327-45b8-bfce-2a9ea38bbede][unit circle]]
+[[attachment:sine-cosine-unit-circle-animation.gif]]
+from the center of the circle:
+$sin(\theta)=\frac{opposite}{1}$
+$cos(\theta)=\frac{adjacent}{1}$
+* Identities
+$\sin^{2}{(\theta)} + \cos^{2}{(\theta) = 1}$
+** sine
+
+*** in terms of cosine
+$\sin{(\theta)}= \sqrt{1 - \cos^{2}{(\theta)}}$
+
+** cosine
+$\cos{(\theta)}= \sqrt{1 - \sin^{2}{(\theta)}}$
+
+* Applications

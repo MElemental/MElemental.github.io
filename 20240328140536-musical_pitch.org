@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       8f6a9ea8-b658-4967-92cc-76d9c2ad83a1
+:mtime:    20240422225259 20240421203946 20240421193855 20240419042626
+:ctime:    20240328140536
+:END:
+#+title: musical pitch
+#+filetags: :music:pitch:tone:timbre:sinusoid:
+#+cite_export: csl ieee.csl
+Pitch is the perception of primarily frequency.
+Frequency of sound waves is the sensation detected while musical pitch is the perception experienced.
+* Elements of pitch
+** Frequency
+The amount of cycles per second in a graphical representation of a wave.
+While this is the primary determinant of pitch it is not the only determinant of pitch.
+** Loudness
+
+[[./images/Figure2PM.png]]
+[[zotero://open-pdf/library/items/Z85TUTEI?page=5&annotation=TG3KLECT][pdf]]
+[[zotero://select/library/items/ISHR544U][“The Psychology Of Music”, 2013, p. 5]]
+**Figure 2** The equal-loudness contours, taken from ISO 226:2003.
+Original figure kindly provided by Brian C. J. Moore. [cite/l/b:@deutschPsychologyMusic2013 pp. 5]
+# Original figure kindly provided by Brian C. J. Moore. [cite/a/b:@deutschPsychologyMusic2013]
+# Original figure kindly provided by Brian C. J. Moore. [cite:@deutschPsychologyMusic2013]
+
+
+
+- Note taken on [2024-04-17 Wed 17:49] \\
+  ISO 266:2003 has been withdrawn.
+  ISO 266:2023 is the current standard.
+
+*** Amplitude
+The height from the equilibrium point in a wave.
+Amplitude contributes to our perception of loudness.
+Loudness in turn contributes to our perception of pitch.
+However amplitude is not the whole story.
+
+* Illusions of pitch
+
+** Shepard Tones
+Pitch chroma without definite pitch height.
+
+* Relationships to other musical parameters
+** Rhythm
+** Tuning and Scales
+** Timbre and Spectrum
+* Bibliography
+#+print_bibliography:

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       fa713db8-32e6-4b9d-914a-a7811193087c
+:mtime:    20240419042804 20240311002134
+:ctime:    20201012141612
+:END:
+#+title: Effective Altruism
+#+filetags: :effective_altruism:generalized_compassion:against_empathy:
+
+* Main Idea
+
+  Effective Altruism refers to the view that charity, and support should be acted upon rationally.
+  This usually implies a rejection of empathy and emotionality in the evaluation of moral decision making.
+ [[id:b5d89e03-594b-4560-952c-121183db28da][Generalized Compassion]] functions as one of the values in effective altruism.

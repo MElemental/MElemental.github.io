@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6933d2ab-22fb-4c01-ab81-57f7802729e2
+:END:
+#+title: radical behaviorism
+#+filetags: :behaviorism:psychology:bf_skinner:radical_behaviorism:
+
+A science of behavior is possible, and its possible to account for behavior without appealing to inner states.
+That is to say environment and [[id:3145801f-2756-475d-a934-b10d604de7bb][evolution]] can account for all aspects of behavior [cite:@baumWhatRadicalBehaviorism2011].
+
+* A review of verbal behavior
+[[roam:Noam Chomsky]] wrote a very critical review of Skinner's paper Verbal Behavior [cite:@chomskyReviewVerbalBehavior1959].
+This review arguably ushered in the [[id:a2a9f2cc-2e48-4c74-9f58-e4caae4dc267][Cognitive Revolution]].

@@ -1,0 +1,180 @@
+:PROPERTIES:
+:ID:       ade5279d-d712-4364-8a89-6e4d9ce78ec3
+:ARTIST: "Electric Light Orchestra"
+:ALBUM: "Out of the Blue"
+:YEAR: 1997
+:mtime:    20240419042746 20240330203733
+:ctime:    20240328143221
+:END:
+#+title: Mr Blue Sky - Electric Light Orchestra - Out of the Blue (1977)
+#+filetags: :elo:electric_light_orchestra:pop_music:rock_music:out_of_the_blue-electric_light_orchestra:
+
+* Lyrics
+
+#+begin_quote
+[Intro]
+
+Morning! Today's forecast calls for blue skies
+
+[Verse 1]
+
+Sun is shining in the sky
+
+There ain't a cloud in sight
+
+It's stopped raining
+
+Everybody's in a play
+
+And don't you know
+
+It's a beautiful new day
+
+Hey-ey-hey
+
+[Verse 2]
+
+Running down the avenue
+
+See how the sun shines brightly
+
+In the city
+
+All the streets where once was pity
+
+Mr. Blue Sky is living here today
+
+Hey-ey-hey
+
+[Chorus]
+
+Mr. Blue Sky
+
+Please tell us why
+
+You had to hide away for so long? (So long)
+
+Where did we go wrong?
+
+Mr. Blue Sky
+
+Please tell us why
+
+You had to hide away for so long (So long)
+
+Where did we go wrong?
+
+[Guitar Solo]
+
+[Verse 3]
+
+Hey, you, with the pretty face
+
+Welcome to the human race
+
+A celebration
+
+Mr. Blue Sky's up there waiting
+
+And today
+
+Is the day we've waited for
+
+Ah-ah-ah
+
+[Chorus]
+
+Oh, Mr. Blue Sky
+
+Please tell us why
+
+You had to hide away for so long? (So long)
+
+Where did we go wrong?
+
+[Post-Chorus]
+
+Hey there, Mr. Blue
+
+We're so pleased to be with you
+
+Look around, see what you do
+
+Everybody smiles at you
+
+Hey there, Mr. Blue
+
+We're so pleased to be with you
+
+Look around, see what you do
+
+Everybody smiles at you
+
+[Interlude]
+
+Mr. Blue Sky
+
+Mr. Blue Sky
+
+Mr. Blue Sky-y
+
+[Bridge]
+
+Mr. Blue, you did it right
+
+But soon comes Mr. Night
+
+Creeping over, now his hand is on your shoulder
+
+Never mind, I'll remember you this
+
+I'll remember you this way
+
+[Chorus]
+
+Mr. Blue Sky
+
+Please tell us why
+
+You had to hide away for so long? (So long)
+
+Where did we go wrong?
+
+[Post-Chorus]
+
+Hey there, Mr. Blue (Sky)
+
+We're so pleased to be with you (Sky)
+
+Look around, see what you do (Blue)
+
+Everybody smiles at you
+
+[Instrumental Break]
+
+[Outro]
+
+Please turn me over
+
+#+end_quote
+
+* Instrumentation
+** Vocaloids
+*** Vocals
+*** Vocoder
+** Guitars
+** Drums
+
+* Production
+
+* Personal Notes
+
+** Moods
+
+I percieve this song to be a happy song.
+
+** Situation
+I think the literal situation is that the sun has come out, and they are general gleeful but concerned that the sun has been gone.
+
+In terms of emotions that means sadness has occurred prior to this happiness that came.
+** External Context

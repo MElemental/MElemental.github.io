@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a2c8c554-858d-46bc-8e0e-0bbbd1b9e58f
+:mtime:    20240419042744 20240417163047
+:ctime:    20240413231511
+:END:
+#+title: Gradient descent
+#+filetags: :algorithm:gradient_descent:evolution:ai:artificial_intelligence:gradient:calculus:optimization:derivative:
+Gradient descent is an optimization algorithm for finding a local minimum on a differentiable multivariate function.
+
+* Applied Mathematics
+* [[roam:evolution]]
+
+* [[roam:Machine learning]]
+Gradient descent is used in machine learning to minimize [[roam:cost functions]].
+[cite:@bennettBriefHistoryIntelligence2023]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ed1e6f52-b16f-44e0-ab87-a78584045d95
+:mtime:    20240419042803 20240401074426
+:ctime:    20240323230327
+:END:
+#+title: Neutrik NL4
+ #+filetags: :audio:speakon:nl4:power_connector:loudspeaker:pa_system:
+
+* Signal
+NL4 and all other [[id:85611eff-4d7c-4e5c-8169-dfc70383df0c][Neutrik speakON]] connectors transfer power and [[id:f615e59a-1b4f-4a36-8d1a-fce49bf683e9][audio]].
+speakON connectors usually connect to [[id:58d3a07b-4925-4ba2-8902-fa6a148d0d16][loudspeakers]].
+* Connections
+
+NL4 is male to male with appliances holding the female connectors.

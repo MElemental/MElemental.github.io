@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       62d3ad0b-a182-4073-ab34-1c59d4c051ec
+:ROAM_REFS: @bennettBriefHistoryIntelligence2023
+:mtime:    20240419042735 20240417182817
+:ctime:    20240417182817
+:END:
+#+title: Bennett, Max S. - A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains
+epub: [[~/Zotero/storage/24NH6GLR/Bennett - 2023 - A brief history of intelligence evolution, AI, an.epub]]
+
+* org-noter notes
+:PROPERTIES:
+:NOTER_PAGE: (0 . 749)
+:END:
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../Zotero/storage/24NH6GLR/Bennett - 2023 - A brief history of intelligence evolution, AI, an.epub
+:NOTER_PAGE: (0 . 749)
+:END:
+* zotero notes

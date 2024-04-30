@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb
+:ROAM_ALIASES: "video camera" "Video camera"
+:mtime:    20240419042804 20240326202550
+:ctime:    20240326200915
+:END:
+#+title: Camera (video)
+#+filetags: :recording:cinematography:video:frame_rate:camera:shutter_speed:
+Video cameras record [[id:4b68a874-9d45-4eb6-9b1d-57c500d21a7a][video]] and [[id:f615e59a-1b4f-4a36-8d1a-fce49bf683e9][audio]].
+(although audio can usually get recorded separately and synchronized in [[id:63e7c813-e9e0-4639-9934-90461797b64e][post production]] )
+* Specifications
+** frame rates

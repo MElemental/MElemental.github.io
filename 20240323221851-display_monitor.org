@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1c2021de-b9da-4923-99ec-fded17c2ad4c
+:ROAM_ALIASES: "display monitor" "display monitors"
+:mtime:    20240419042728 20240326202915
+:ctime:    20240323221851
+:END:
+#+title: Display Monitor
+ #+filetags: :computer:video:display:interface:rgb:
+
+* Specifications
+
+** Color Spaces
+
+Modern color displays use [[id:fe0e9416-19a3-4348-b76b-73363fdc89e0][RGB]] 3 channel monitors to present multicolored images.
+
+** Refresh rates
+
+Older monitors will have a refresh rate of 30Hz.
+Modern monitors have refresh rates of 60Hz and above.
+Gaming monitors will have refresh rates of $144Hz$ and above.
+Refresh rates refer to playback displays.
+[[id:f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb][Video cameras]] call it frame rate when it its recording.

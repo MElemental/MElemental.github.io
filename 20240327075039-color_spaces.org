@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       93e55fc1-479b-4504-9900-c69b45683bef
+:mtime:    20240429140235 20240419042741 20240327075151
+:ctime:    20240327075039
+:END:
+#+title: Color spaces
+#+filetags: :color:color_space:gamut:physics:elctromagnetism:models:
+Color spaces are representations of color.
+Usually they have three parameters, although they can have more.
+
+* [[roam:SML color space]]
+This color space refers to the color space that results as a measurement of the responsivity curve of cone cells in the eye.
+This should not be confused with RGB color space.
+it corresponds to the short, medium, and long wavelengths that cone cells responds to.
+* [[id:fe0e9416-19a3-4348-b76b-73363fdc89e0][RGB color space]]
+RGB is a color space that prioritizes the combination of additive primary colors.
+This is primarily used for light based color such as monitors and LED lighting.
+The parameters are the amount of Red, Green, or Blue light in the color space.
+
+* [[roam:CMYK color space]]
+CMY and CMYK color space is used for subtractive color mixing.
+This is typically used in pigments, inks, paints.
+
+* [[roam:HSV color space]]
+HSV color space is an attempt to make use parameters that are more intuitive to

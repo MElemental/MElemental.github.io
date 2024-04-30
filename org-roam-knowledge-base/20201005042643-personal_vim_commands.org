@@ -1,0 +1,110 @@
+:PROPERTIES:
+:ID:       982a2b3c-e3bf-4e5c-9745-f70ae10e7f53
+:ROAM_ALIASES: "Vim Commands" "Vim Keybinds"
+:mtime:    20240419042741 20240402193423
+:ctime:    20201005042643
+:END:
+#+STARTUP: entitiespretty
+#+title: Personal Vim Commands
+#+filetags: :keybinds:controls:keyboard_navigation:text_editing:editing:vim:
+
+* Navigation Table
+
+  | Keybind    | Description                  | Keybind    | Description                         |
+  |------------+------------------------------+------------+-------------------------------------|
+  |            |                              | \vert          | Start at column 0                   |
+  | h          | move cursor left             | 0          | start of the current line           |
+  | j          | move cursor down             | _ (^)      | first nonblank character of line    |
+  | k          | move cursor up               | $          | end of the current line             |
+  | l          | move cursor right            | g_         | last nonblank character of line     |
+  |            |                              |            |                                     |
+  | <N><b>     | repeat <b>ind <N> times      |            |                                     |
+  |            |                              |            |                                     |
+  |------------+------------------------------+------------+-------------------------------------|
+  | H          | Top of screen                | C-f        | forward one full screen             |
+  | zt         | current cursor to top        | C-u        | forward (up) one half screen        |
+  | M          | Middle of screen             | C-y        | View pa(y)ne up                     |
+  | zz (z.)    | current cursor to center     | C-b        | back one full screen                |
+  | L          | Bottom of screen             | C-d        | back (down) one full screen         |
+  | zb         | current cursor to bottom     | C-e        | View end down                       |
+  | C-l        | Toggle current cursor TMB    |            |                                     |
+  |------------+------------------------------+------------+-------------------------------------|
+  | N%         | go to N percentage of line   | gg         | beginning of file                   |
+  | NG (ngg)   | go to Nth absolute line      | G          | end of file                         |
+  |------------+------------------------------+------------+-------------------------------------|
+  | w          | go to next word.             | W          | go to next WORD.                    |
+  | b          | go back a word.              | B          | go back a WORD.                     |
+  | e          | go to end of next word       | E          | go to end of next WORD.             |
+  | ge         | go back a end of word        | gE         | go back a end of WORD.              |
+  |            |                              |            |                                     |
+  | (          | forward a sentence           | )          | backward a sentence                 |
+  | {          | forward a paragraph          | }          | backward a paragraph                |
+  | \[\[       | forward a {...} section      | ]]         | backward a {...} section            |
+  | +          | next line 1st nwsp           | -          | previous line 1st nwsp              |
+  |------------+------------------------------+------------+-------------------------------------|
+  | /          | forward search               | ?          | backward search                     |
+  | n          | next search                  | N          | previous search                     |
+  |            |                              |            |                                     |
+  | *          | forward current WORD pattern | #          | backward current WORD pattern       |
+  | g*         | forward current word pattern | g#         | backward current word pattern       |
+  | gd         | goto definition              |            |                                     |
+  |------------+------------------------------+------------+-------------------------------------|
+  |            |                              |            |                                     |
+  | %          | matching brace               | ``         | jump to previous location           |
+  | C-o        | backward jump                | C-i        | forward jump                        |
+  | f<char>    | next <char> in line          | F<char>    | previous <char> in line             |
+  | t<char>    | until next <char> in line    | T<char>    | until previous <char> in line       |
+  | ;          | forward repeat <char>  cmd   | ,          | backward repeat <char> cmd          |
+  | m<charlab> | mark<charlab>                |            |                                     |
+  | `<charlab> | goto <charlab> line, column  | '<charlab> | Goto <charlab> line, first nonblank |
+  |            |                              |            |                                     |
+
+* Edit Commands
+
+** Insert and Replace
+  | Keybind | Description                   | Keybind | Description                 |
+  | i       | insert before cursor          | a       | append after cursor         |
+  | I       | insert start line             | A       | append end line             |
+  | p       | paste before cursor*          | P       | Paste after cursor*         |
+  | o       | open insert above line        | O       | open insert below line      |
+  | u       | undo                          | C-r     | redo                        |
+  | <       | unindent                      | >       | indent                      |
+  | J       | Join current line w/next line | C-j     | insert line (kind of)       |
+  | :       | expression-substitution       | ~       | reverse case, forward       |
+  | .       | repeat                        | &       | repeat last ex substitution |
+  | ESC     | escape insert state           | C-\     | insert                      |
+  | =_      | indent _                       |         |                             |
+** Cut and Copy
+ | Keybind | Description                |   |                                        |
+ | c_      | change (delete+insert)     | C | change til EOL                         |
+ | d_      | delete                     | D | delete til EOL                         |
+ | y_      | Yank (copy)                | Y | Yank Entire Line                       |
+ | r       | replace char               | R | replace through EOL, then enter insert |
+ | s       | substitutes(d+i) character | S | Substitutes entire line                |
+ | x       | delete char                | X | delete char backwards                  |
+** Matching
+
+   |          | Keybind  | Description                       | Keybind  | Description                       |
+   | c_/d_/y_ | _t<char> | exclusive next <char> on line     | _f<char> | inclusive next <char> on line     |
+   | c_/d_/y_ | _t<char> | exclusive previous <char> on line | _f<char> | inclusive previous <char> on line |
+   | c_/d_/y_ | _i<*>    | exclusive inner match brace       | _a<*>    | inclusive inner match brace       |
+   | c_/d_/y_ | _I       | up to start of line               | _D       | up to end of line                 |
+
+* Visual Selection
+
+  | Keybind | Description                    |
+  | v       | character select               |
+  | V       | line select                    |
+  | C-v     | block select                   |
+  | gv      | restore last visual            |
+  | vo      | switch to other end of visual  |
+  | vO      | switch to other end of visual? |
+
+* File Saving
+  |     |            |
+  | :wq | write-quit |
+  | :q! | quit       |
+  | ZZ  | save-quit  |
+  | ZQ  | quit       |
+  |     |            |
+

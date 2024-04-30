@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4354590-539c-402b-835e-85093a717541
+:ROAM_REFS: https://www.orgroam.com/manual/Diagnosing-and-Repairing-Files.html#Diagnosing-and-Repairing-Files
+:mtime:    20240419042759 20240311002134
+:ctime:    20240311002134
+:END:
+#+title: Diagnosing and Repairing Files (Org-roam User Manual)
+#+tags: "repair" "diagnosis" "roaming"
+The Diagonstics and repair file. Apparently you can make a checker. I'm not sure If I know the use for this yet.
+
+[[id:b5ad19df-c227-49f0-8079-56d5ff96da00][Tutorial]]

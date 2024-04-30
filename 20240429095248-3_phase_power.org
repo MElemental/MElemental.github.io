@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       21cd2a48-a9bb-4564-b42d-6c94b583f0a8
+:mtime:    20240429131642 20240429120007 20240429102349
+:ctime:    20240429095248
+:ROAM_ALIASES: "three-phase power"
+:END:
+#+title: 3-phase power
+#+filetags: :electricity:electrical_power:three_phase:
+
+* Purpose
+
+To get 3 legs of independent power.
+
+* Procedure
+
+3-phase power is three legs of [[id:e73b36c6-55a0-451d-b5b9-0aa49cde7b4c][alternating current]] generated at 120 degree offsets of each other.
+The process is similar to single phase alternating current.
+Instead of one leg of power being generated on one turbine, there are 3 legs of power offset 120 degrees from each other.
+
+* References
+
+[cite:@raritanThreePhasePowerExplained2018]

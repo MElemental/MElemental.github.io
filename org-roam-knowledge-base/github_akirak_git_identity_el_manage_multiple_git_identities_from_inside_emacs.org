@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b5301cfd-7eaa-4594-9859-43f85fa0ab73
+:ROAM_REFS: https://github.com/akirak/git-identity.el
+:mtime:    20240419042749 20240311002134
+:ctime:    20240311002134
+:END:
+#+title: GitHub - akirak/git-identity.el: Manage multiple Git identities from inside Emacs
+* Personal Identity
+  I might use this as inspiration for the branching and merging in [[id:e27c7b62-e338-4056-917d-a544725d91aa][Personal Identity RPG]].

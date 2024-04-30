@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       85611eff-4d7c-4e5c-8169-dfc70383df0c
+:mtime:    20240419042738 20240331185715
+:ctime:    20240327200020
+:END:
+#+title: Neutrik speakON
+#+filetags: :speakON:STUB:
+
+Includes connectors such as [[id:ed1e6f52-b16f-44e0-ab87-a78584045d95][Neutrik NL4]], NL2 and NL8

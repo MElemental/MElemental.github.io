@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       83d79a7a-a279-40b7-bc16-48a0320248f3
+:mtime:    20240429105142
+:ctime:    20240429105041
+:END:
+#+title: direct current
+#+filetags: :electrical_power:dc_current:electricity:edison:
+
+* Conversion from [[id:e73b36c6-55a0-451d-b5b9-0aa49cde7b4c][alternating current]]
+** Rectifiers

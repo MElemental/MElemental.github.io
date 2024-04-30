@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       be6298e3-b248-45d6-8b7b-ea49cefb686d
+:ROAM_ALIASES: "SSD" "HDD" "Hard Drive"
+:mtime:    20240419042753 20240418185459
+:ctime:    20240323081033
+:END:
+#+title: Secondary Computer Storage
+ #+filetags: :data:hard_drive:ssd:secondary_memory:secondary_storage:
+
+* Types of storage
+** Hard Drives (HDD)
+** Solid State Drives (SSD)
+*** NVmE

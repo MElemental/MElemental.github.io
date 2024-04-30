@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       70a6e20d-bb58-49b9-b869-ffb7113baef6
+:ROAM_REFS: @frankishCambridgeHandbookArtificial2014
+:mtime:    20240419042736 20240331185554
+:ctime:    20240331185554
+:END:
+#+title:  - The Cambridge Handbook of Artificial Intelligence
+#+filetags: :cognitive_science:artificial_intelligence:
+
+pdf: zotero://open-pdf/library/items/QEG3YVGU?Keith Frankish, William M. Ramsey (eds.) - The Cambridge Handbook of Artificial Intelligence-Cambridge University Press (2014).pdf
+* zotero notes

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7e29602a-e2b1-4573-9695-53361020685e
+:ROAM_ALIASES: "Power Supply Unit"
+:mtime:    20240419042737 20240323081722
+:ctime:    20240322044343
+:END:
+#+TITLE: PC Power Supply
+ #+filetags: :pc:computers:power_supply:electrical_power:
+* Power
+
+Usually measured in wattage
+
+* Connections
+
+** [[id:dcd41c7c-2452-48ab-b860-ab6f6cf34282][IEC 60320 C13-C14]]
+
+* Units powered
+
+** [[id:92dfd3b0-91e2-4e02-b6e1-00afa0c86f6e][Motherboard]]
+
+** [[id:be6298e3-b248-45d6-8b7b-ea49cefb686d][Secondary Computer Storage]]

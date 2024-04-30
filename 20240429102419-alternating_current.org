@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       e73b36c6-55a0-451d-b5b9-0aa49cde7b4c
+:mtime:    20240429115808 20240429102515
+:ctime:    20240429102419
+:ROAM_ALIASES: "single-phase power"
+:END:
+#+title: alternating current
+#+filetags: :elctrical_power:ac_current:electricity:standard:tesla:
+* History
+
+Invented by Tesla.
+Criticized by Edison who preferred [[id:83d79a7a-a279-40b7-bc16-48a0320248f3][direct current]]
+
+* Procedure
+
+1. A turbine rotates a magnet.
+ - When the magnet is positive it pulls electrons toward the magnet.
+    When the magnet is negative it pulls electrons away from the magnet.
+    As electrons move they generate current.
+2. As the turbine rotates the [[roam:electricity]] moves and generates current that alternates.
+
+   - This current is usually a [[id:387a1422-ff3c-47a9-9ad5-6e5162caaa39][sinusoid wave]] in the [[roam:voltage]] [[roam:range]].
+     - This can be visualized as the sine of the pull of the electrons as the magnet rotates.
+   - The voltage is the speed the current pulls toward the magnet.
+     - The amperage of the circuit is correlated with the size of the wire.
+
+* References
+
+[cite:@raritanAlternatingCurrentExplained2018]

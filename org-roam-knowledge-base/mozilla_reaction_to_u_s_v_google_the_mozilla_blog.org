@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5111956b-6c17-4f15-a49f-61dc7e76cf64
+:ROAM_REFS: https://blog.mozilla.org/blog/2020/10/20/mozilla-reaction-to-u-s-v-google/
+:mtime:    20240419042732 20240311002132
+:ctime:    20240311002132
+:END:
+#+title: Mozilla Reaction to U.S. v. Google - The Mozilla Blog

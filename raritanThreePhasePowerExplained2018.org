@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       873b545f-b959-4299-b44a-fbc13c29a8bf
+:mtime:    20240429120110
+:ctime:    20240429120110
+:ROAM_REFS: @raritanThreePhasePowerExplained2018
+:END:
+#+title: Raritan - Three-Phase Power Explained
+pdf:
+Raritan also put out an introductory video to [[alternating current]]
+[cite:@raritanAlternatingCurrentExplained2018]
+* zotero notes

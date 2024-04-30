@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       f7833289-8575-47ec-8959-c5701fd705cd
+:mtime:    20240429134949
+:ctime:    20240429134305
+:END:
+#+title: trigonometry
+#+filetags: :mathematics:trigonometry:right_triangles:sin:trigonometric_ratio:
+Trigonometry is the field of mathematics concerned with angles and their relation so the side lengths of triangles.
+* Right Triangles
+* [[id:0c0ade61-f327-45b8-bfce-2a9ea38bbede][unit circle]]
+* Putting it together
+* Trigonometric ratios
+** [[id:26f87673-2230-422b-b3e5-82614371be1d][sin and cos]]

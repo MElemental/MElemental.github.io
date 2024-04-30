@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       652a67b2-9f94-4327-845e-9e33918c11f1
+:mtime:    20240419042735 20240401092635
+:ctime:    20201011213758
+:END:
+#+title: Secular Buddhism
+#+filetags: :suffering:compassion::generalized_compassion:against_empathy:
+
+* Main Ideas
+  Secular Buddhism is Buddhist practice that primarily focuses on this life instead of future lives.
+  It holds less interest in any supernatural aspects.
+  It does still follow the different teachings associated with it.
+
+* My main takeaways
+  I find myself interested because of the abandonment of empathy for [[id:b5d89e03-594b-4560-952c-121183db28da][generalized compassion]],
+  and the dissolution of the self.
