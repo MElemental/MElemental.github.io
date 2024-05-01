@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       c1983e31-a653-41ed-9eee-b33d9418bef8
+:END:
+#+title: subtraction
+#+filetags: :mathematics:operation:subtraction:minus:arithmetic:
+* Components
+
+** Arity
+
+Subtraction takes in 2 inputs.
+
+** Operators
+*** -
+the operator for subtraction is $-$
+
+** Operands
+
+*** minuend
+
+in $a - b = c$, $a$ is the minuend.
+
+*** subrahend
+
+in $a - b = c$, $b$ is the subtrahend.
+
+** Values
+
+*** difference
+
+in $a - b = c$, $c$ is the difference.
+
+* Mathematical Implementations
+
+
+* Properties of subtraction
+
+** [[roam:derivative]]
+
+* Applications
+
+** Debt
