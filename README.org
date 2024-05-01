@@ -1,17 +1,36 @@
 :PROPERTIES:
 :ID:       6e922ae1-6967-4ba7-b96b-972e006bab3b
-:mtime:    20240430122216
+:mtime:    20240430154022 20240430122216
 :ctime:    20240430113815
 :END:
 #+title: README
 #+filetags: :Project:README:
-
 * My mind garden
 This repo serves as a representation of information as I collect it.
 The information uses graphs based on links within the files.
 * Current clusters
 This section may not be up to date but I will try to update this sections in order to provide interesting trends in the data.
+This is based on the coloring in org-roam-ui.
 ** <2024-04-30 Tue>
+
+*** [[id:d0d3dd54-2c7b-4f75-9fc8-dd5e89895143][AI Safety]]
+
+*** [[id:a2a9f2cc-2e48-4c74-9f58-e4caae4dc267][Cognitive Revolution]]
+
+*** Computers
+such as [[id:b10cabff-a933-4d6e-aa50-8a63df3e4021][Central processing unit]]
+
+*** Electrical Cables
+
+*** Electricity
+
+*** Color and Visual Composition
+
+*** [[id:b5ad19df-c227-49f0-8079-56d5ff96da00][Org-Roam Tutorial File]]
+
+*** [[id:e27c7b62-e338-4056-917d-a544725d91aa][Personal Identity RPG]]
+
+
 * Software
 This PKM repository is uses the following software to implement it.
 
@@ -22,5 +41,6 @@ This program provides the outlines.
 This program implements the PKM.
 *** org-roam-ui
 For implementing a graph.
+
 ** Firefox
 for viewing the org-roam-ui graph

@@ -3,20 +3,22 @@
 :ARTIST: "Electric Light Orchestra"
 :ALBUM: "Out of the Blue"
 :YEAR: 1997
-:mtime:    20240419042746 20240330203733
+:mtime:    20240430164143 20240419042746 20240330203733
 :ctime:    20240328143221
 :END:
 #+title: Mr Blue Sky - Electric Light Orchestra - Out of the Blue (1977)
-#+filetags: :elo:electric_light_orchestra:pop_music:rock_music:out_of_the_blue-electric_light_orchestra:
+#+filetags: :elo:electric_light_orchestra:pop_music:rock_music:out_of_the_blue-electric_light_orchestra:happy:longing:
 
 * Lyrics
 
+** Intro
+
 #+begin_quote
-[Intro]
 
 Morning! Today's forecast calls for blue skies
+#+end_quote
 
-[Verse 1]
+** Verse 1
 
 Sun is shining in the sky
 
@@ -32,7 +34,7 @@ It's a beautiful new day
 
 Hey-ey-hey
 
-[Verse 2]
+** Verse 2
 
 Running down the avenue
 
@@ -46,7 +48,7 @@ Mr. Blue Sky is living here today
 
 Hey-ey-hey
 
-[Chorus]
+** Chorus
 
 Mr. Blue Sky
 
@@ -64,9 +66,9 @@ You had to hide away for so long (So long)
 
 Where did we go wrong?
 
-[Guitar Solo]
+** Guitar Solo
 
-[Verse 3]
+** Verse 3
 
 Hey, you, with the pretty face
 
@@ -82,7 +84,7 @@ Is the day we've waited for
 
 Ah-ah-ah
 
-[Chorus]
+** Chorus
 
 Oh, Mr. Blue Sky
 
@@ -92,7 +94,7 @@ You had to hide away for so long? (So long)
 
 Where did we go wrong?
 
-[Post-Chorus]
+** Post-Chorus
 
 Hey there, Mr. Blue
 
@@ -110,15 +112,14 @@ Look around, see what you do
 
 Everybody smiles at you
 
-[Interlude]
+** Interlude]
 
 Mr. Blue Sky
 
 Mr. Blue Sky
 
 Mr. Blue Sky-y
-
-[Bridge]
+** Bridge]
 
 Mr. Blue, you did it right
 
@@ -129,8 +130,7 @@ Creeping over, now his hand is on your shoulder
 Never mind, I'll remember you this
 
 I'll remember you this way
-
-[Chorus]
+** Chorus]
 
 Mr. Blue Sky
 
@@ -139,8 +139,7 @@ Please tell us why
 You had to hide away for so long? (So long)
 
 Where did we go wrong?
-
-[Post-Chorus]
+** Post-Chorus]
 
 Hey there, Mr. Blue (Sky)
 
@@ -150,9 +149,8 @@ Look around, see what you do (Blue)
 
 Everybody smiles at you
 
-[Instrumental Break]
-
-[Outro]
+Instrumental Break]
+** Outro]
 
 Please turn me over
 
