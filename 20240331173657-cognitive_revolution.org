@@ -2,6 +2,7 @@
 :ID:       a2a9f2cc-2e48-4c74-9f58-e4caae4dc267
 :mtime:    20240419042744 20240417165009
 :ctime:    20240331173657
+:ROAM_ALIASES: "cognitive revolution"
 :END:
 #+title: Cognitive Revolution
 #+filetags: :cognition:computation:psychology:linguistics:philosophy:history_of_science:

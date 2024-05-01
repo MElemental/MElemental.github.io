@@ -9,11 +9,20 @@
 
 Branch of mathematics concerned with operations. Systems can be distinguished by the set of numbers the system deals with.
 
-* [[roam:hyperoperation]]
+* [[id:bfaf8bce-d719-469b-9d78-2ec3fde0d0f7][hyperoperation]]
 
+The following headings are defined in terms of the hyperoperation sequence where $n=0$.
 These are the hyperoperations for our most commonly used form of arithmetic.
 however other arithmetics can be constructed in [[roam:abstract algebra]].
 Additional properties of each operation can be found on their page.
+
+| hyperoperation | primary        | left inverse    | right inverse   | groups introduced |
+| $n = 0$        | successor      | predecessor     | predecessor     | $\mathbb{N}$               |
+| $n = 1$        | addition       | subtraction     | subtraction     | $\mathbb{Z}$               |
+| $n = 2$        | multiplication | division        | division        | $\mathbb{Q}$               |
+| $n = 3$        | exponentiation | root extraction | [[roam:logarithm]]  | $\mathbb{R}$               |
+| $n = 3$        | tetration      | hyper root      | hyper logarithm |                   |
+
 ** n = 0
 *** [[roam:successor function][Succession]]
 Succession in a unary operator.
@@ -42,6 +51,4 @@ Division also introduces the construction of rational numbers.
 *** roam:Exponentiation
 exponentiation is repeated multiplication.
 
-*** roam:Polynomial
-
-***
+*** roam
