@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       bfaf8bce-d719-469b-9d78-2ec3fde0d0f7
+:END:
+#+title: hyperoperation
+#+filetags: :hyperoperation:arithmetic:operation:mathematics:succession:addition:subtraction:multiplication:division:exponentiation:root_extraction:logarithm:tetration:super-root:super-logarithm:pentation:
+
+In mathematics, the hyperoperation sequence is an infinite sequence of arithmetic operations (called hyperoperations in this context) that starts with a unary operation (the successor function with $n = 0$).
+The sequence continues with the binary operations of addition $(n = 1)$, multiplication $(n = 2)$, and exponentiation $(n = 3)$.

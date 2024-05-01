@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e48c630d-f50c-4047-91ed-f1574d9375ce
+:END:
+#+title: Addition
+#+filetags: :addition:mathematics:arithmetic:
+
+Addition is the hyperoperation where $n=1$
+
+* Properties of addtion
+** Commutativity
+** Associative
+** Distributive
+** Identity element
