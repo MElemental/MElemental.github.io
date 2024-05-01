@@ -17,38 +17,43 @@ however other arithmetics can be constructed in [[roam:abstract algebra]].
 Additional properties of each operation can be found on their page.
 
 | hyperoperation | primary        | left inverse    | right inverse   | groups introduced |
+|----------------+----------------+-----------------+-----------------+-------------------|
 | $n = 0$        | successor      | predecessor     | predecessor     | $\mathbb{N}$               |
-| $n = 1$        | addition       | subtraction     | subtraction     | $\mathbb{Z}$               |
+| $n = 1$        | [[roam:addition]]  | subtraction     | subtraction     | $\mathbb{Z}$               |
 | $n = 2$        | multiplication | division        | division        | $\mathbb{Q}$               |
 | $n = 3$        | exponentiation | root extraction | [[roam:logarithm]]  | $\mathbb{R}$               |
-| $n = 3$        | tetration      | hyper root      | hyper logarithm |                   |
+| $n = 3$        | tetration      | hyper root      | hyper logarithm | $\aleph$               |
 
 ** n = 0
 *** [[roam:successor function][Succession]]
-Succession in a unary operator.
+Succession in a unary operator with arity one.
 $\mathbf{S}(n) = n + 1$
 
 ** n = 1
 
-*** roam:Addition
-addition is repeated succession.
+*** [[id:e48c630d-f50c-4047-91ed-f1574d9375ce][addition]]
+Addition is repeated succession.
 # I think there's a bit of a disconnect between these two operations.
 # A number is repeated succession, an addition is the combination of two numbers.
-*** roam:Subtraction
+*** [[id:c1983e31-a653-41ed-9eee-b33d9418bef8][subtraction]]
 subtraction is the inverse operation of addition.
 subtraction also introduces the construction of negative numbers.
+
 ** n = 2
-*** roam:Multiplication
+
+*** roam:multiplication
 Multiplication is the next level of arithmetic hyperoperation.
 Multiplication is repeated addition.
 
-*** Division
+*** roam:division
 Division is the inverse operation of multiplication.
 Division also introduces the construction of rational numbers.
 
 ** n = 3
 
-*** roam:Exponentiation
+*** roam:exponentiation
 exponentiation is repeated multiplication.
 
 *** roam
+
+** n > 3

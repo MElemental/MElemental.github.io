@@ -4,10 +4,38 @@
 #+title: Addition
 #+filetags: :addition:mathematics:arithmetic:
 
-Addition is the hyperoperation where $n=1$
+Addition is the arithmetic hyperoperation where $n=1$.
+Addition is the repetition of the [[roam:sucessor function]].
 
-* Properties of addtion
+* Components
+** operands
+*** addend
+for $a$ and $b$, such that $a + b = c$
+both $a$ and $b$ are called addends.
+** values
+*** sum
+for $c$, such that $a + b = c$
+$c$ is called the sum.
+
+* Mathematical Implementations
+** [[id:c1983e31-a653-41ed-9eee-b33d9418bef8][subtraction]]
+subtraction is the inverse operation of addition.
+
+** [[roam:summation]]
+summation is addition extended to a sequence of numbers.
+summation represents a discrete series.
+it is usually denoted with capital \Sigma.
+
+** TODO [[roam:integration]]
+# I need to figure out which definition to use and write it in latex.
+integration is the continuous extension of addition.
+it is the $\lim_{x\to\infty}$ of
+
+
+* Properties of addition
 ** Commutativity
-** Associative
-** Distributive
+** Associativity
+** Distributivity
 ** Identity element
+
+* Applications

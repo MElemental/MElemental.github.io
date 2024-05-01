@@ -4,7 +4,7 @@
 :ctime:    20201011213758
 :END:
 #+title: Secular Buddhism
-#+filetags: :suffering:compassion::generalized_compassion:against_empathy:
+#+filetags: :suffering:compassion:generalized_compassion:against_empathy:
 
 * Main Ideas
   Secular Buddhism is Buddhist practice that primarily focuses on this life instead of future lives.

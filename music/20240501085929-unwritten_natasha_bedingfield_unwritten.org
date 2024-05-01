@@ -1,8 +1,9 @@
 :PROPERTIES:
 :ID:       d8786f8c-eb6b-4aa9-98ca-5bcac5f986a0
 :END:
-#+title: Unwritten - Natasha Bedingfield - Unwritten
-#+filetags: :unwritten_natasha_bedingfield:natasha_bedingfield:unwritten_unwritten:unwritten:self-determination:optimism:happiness::  
+#+title: Unwritten - Natasha Bedingfield - Unwritten (2004)
+#+filetags: :music:song:unwritten_natasha_bedingfield:natasha_bedingfield:unwritten_unwritten:unwritten:self-determination:optimism:happiness:
+
 * Lyrics
 ** Verse 1
 
@@ -18,7 +19,6 @@ I'm just beginning
 The pen's in my hand
 
 Ending: unplanned
-
 #+end_quote
 
 ** Pre-Chorus
@@ -35,7 +35,6 @@ Reaching for something in the distance
 So close you can almost taste it
 
 Release your inhibitions
-
 #+end_quote
 
 ** Chorus
@@ -219,6 +218,9 @@ Yeah, yeah, yeah, yeah
 
 * Instrumentation
 
+** Singers
+
+Natasha Bedingfield
 * Production
 
 * Personal Notes
