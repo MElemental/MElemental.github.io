@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       29c0e899-9926-4809-8459-98c643753688
+:END:
+#+title: successor function
+#+filetags: :mathematics:operation:succession:successor:peano_arithmetic:arithmetic:
+* Definition
+
+* Components
+
+** Operators
+Succession is usually presented as $S(n)$
+it can also be presented as $\succ$
+** Operands
+
+** Values
+
+* Mathematical Implementations
+
+* Properties of successor function
+
+* Applications

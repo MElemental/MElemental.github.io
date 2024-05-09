@@ -20,9 +20,11 @@ Computation refers to any calculation that is well defined.
 
 *** [[roam:Lambda calculus]]
 
-** [[roam:Connectionism]]
+** [[id:8c1f6c70-c956-443a-8ab4-18d97471765f][Connectionism]]
 Connectionism refers to a type of computation where a network of perceptual units and gets reweighed after it has been given feedback.
 Connectionist models are usually good at pattern recognition and initially poor at logical methods.
+
+* Computational Architechure
 
 * [[roam:Computability]]
 

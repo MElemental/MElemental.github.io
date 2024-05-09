@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       bde38df4-5663-4fb9-8a9f-8dd5733f778b
+:END:
+#+title: summation
+#+filetags: :STUB:mathematics:operation:iterated_binary_operator:addition:summation:
+
+summation is addition extended to a sequence of numbers.
+
+* Components
+** Arity
+Summation i
+** Operators
+
+*** \Sigma notation
+$\displaystyle\sum^{U}_{i=L} x_{i}$
+
+** Operands
+
+** Values
+
+* Mathematical Implementations
+
+** roam:integration
+
+** roam:series
+
+* Properties of summation
+
+* Applications

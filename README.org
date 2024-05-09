@@ -28,11 +28,29 @@ This PKM repository is uses the following software to implement it.
 
 ** Emacs
 *** org-mode
+
 This program provides the outlines.
+
+**** org-cite
+
+org-cite handles citations within org mode.
+
 *** org-roam
+
 This program implements the PKM.
+
 *** org-roam-ui
+
 For implementing a graph.
 
+*** citar
+
+frontend for citations in emacs.
+
 ** Firefox
+
 for viewing the org-roam-ui graph
+
+** Zotero
+
+Zotero functions as my backend for citations and references.

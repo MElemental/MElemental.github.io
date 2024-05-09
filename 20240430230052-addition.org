@@ -5,23 +5,48 @@
 #+filetags: :addition:mathematics:arithmetic:
 
 Addition is the arithmetic hyperoperation where $n=1$.
-Addition is the repetition of the [[roam:sucessor function]].
+Addition is the repetition of the [[id:29c0e899-9926-4809-8459-98c643753688][successor function]].
 
 * Components
+
+** Parity
+
+addition requires two operands to return a value.
+
 ** operands
-*** addend
+
+*** augend
+
 for $a$ and $b$, such that $a + b = c$
-both $a$ and $b$ are called addends.
+
+$a$ is called the augend in the strict sense.
+
+*** addend
+
+for $a$ and $b$, such that $a + b = c$
+
+both $a$ and $b$ are called addends in the broad sense.
+
+$b$ is called the addend in the strict sense.
 ** values
+
 *** sum
+
 for $c$, such that $a + b = c$
+
 $c$ is called the sum.
 
-* Mathematical Implementations
-** [[id:c1983e31-a653-41ed-9eee-b33d9418bef8][subtraction]]
-subtraction is the inverse operation of addition.
+* Mathematical Implementations ** [[id:c1983e31-a653-41ed-9eee-b33d9418bef8][subtraction]]
 
-** [[roam:summation]]
+subtraction is the inverse operation of addition.
+subtraction can also be represented as the addition of the [[roam:additive inverse]] of the subtrahend.
+
+** [[id:a6dc2318-8b5c-44d9-b1b0-ea25a0645c49][multiplication]]
+
+multiplication is repeated addition.
+
+** [[id:bde38df4-5663-4fb9-8a9f-8dd5733f778b][summation]]
+
 summation is addition extended to a sequence of numbers.
 summation represents a discrete series.
 it is usually denoted with capital \Sigma.
@@ -30,6 +55,7 @@ it is usually denoted with capital \Sigma.
 # I need to figure out which definition to use and write it in latex.
 integration is the continuous extension of addition.
 it is the $\lim_{x\to\infty}$ of
+
 
 
 * Properties of addition

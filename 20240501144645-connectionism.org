@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8c1f6c70-c956-443a-8ab4-18d97471765f
+:END:
+#+title: Connectionism
+#+filetags: :STUB:connectionism:computation:cognition:perceptron:node:weight_coefficient:
+
+Connectionism is both a computational and cognitive theory.
+
+* [[id:00775a4b-e515-42f1-896d-eae818f77481][Computation]]
+
+Connectionism is a computational theory in the sense that it is a method for doing for performing computations via a connection of weighted nodes.
+
+* [[id:8b4f316f-20fa-4625-a742-2770dac0011b][Cognition]]
+
+Connectionism is a cognitive theory in the sense that it is one of the architechtures proposed for computational theories of cognitive science.

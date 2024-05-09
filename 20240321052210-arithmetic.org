@@ -41,7 +41,7 @@ subtraction also introduces the construction of negative numbers.
 
 ** n = 2
 
-*** roam:multiplication
+*** [[id:a6dc2318-8b5c-44d9-b1b0-ea25a0645c49][multiplication]]
 Multiplication is the next level of arithmetic hyperoperation.
 Multiplication is repeated addition.
 

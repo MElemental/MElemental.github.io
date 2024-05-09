@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       a6dc2318-8b5c-44d9-b1b0-ea25a0645c49
+:END:
+#+title: multiplication
+#+filetags: :mathematics:operation:multiplication:arithmetic:
+
+* Components
+
+** Operators
+
+*** \times
+the operator for multiplication is $\times$
+
+** Operands
+
+*** factor
+in the equation $a \times b = c$
+$a$ and $b$ are factors
+*** multiplier
+
+in the equation $a \times b = c$
+$a$ is the multiplier
+
+*** multiplicand
+
+in the equation $a \times b = c$
+$b$ is the multiplicand
+
+** Values
+
+*** product
+in the equation $a \times b = c$
+$c$ is the product
+
+* Mathematical Implementations
+
+** Iterated binary operator
+\Pi notation
+
+** Coefficients
+
+* Properties of multiplication
+
+** Associativity
+
+** Commutativity
+
+** Distributivity
+
+** multiplicative identiity
+
+* Applications
+
+** Wages
