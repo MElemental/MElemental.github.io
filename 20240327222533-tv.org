@@ -6,7 +6,7 @@
 :END:
 #+title: television
 #+filetags: :STUB:television:display:video:audio:monitor:downstage_monitor:
-
+TVs playback [[id:4b68a874-9d45-4eb6-9b1d-57c500d21a7a][video]] on a display using internal light emitters.
 * Display
 
 Modern TVs are usually flat screens.
@@ -20,7 +20,7 @@ Most TVs have built in speakers.
 * Inputs
 
 ** AV
-** HDMI
+** [[id:ec864691-4d97-490a-9439-ad13e09a6b5d][HDMI]]
 ** Antenna
 ** [[id:69d1972a-e34e-4508-822a-350505d17b33][IEC 60320]] to [[id:9339d3ae-7fe7-449e-9c88-d8e07fea73e0][NEMA 5 (Edison)]]
 

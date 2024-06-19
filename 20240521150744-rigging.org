@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fc53a7bd-ce6c-4083-a612-d5d292683722
+:END:
+#+title: Rigging
+#+filetags: :rigging:stagecraft:rope:span:GAC:
+
+* Truss
+Truss is versatile
+
+* SPAN
+Span is strands of nylon encased in fabric.
+It is not firesafe and requires a safety cable to reinforce whatever it's using.s
+
+* GAC
+GAC is cable encased in fabric.
+GAC is firesafe and does not require additional safety cable to reinforce.

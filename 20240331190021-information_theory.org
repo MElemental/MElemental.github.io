@@ -4,11 +4,34 @@
 :ctime:    20240331190021
 :END:
 #+title: Information Theory
-#+filetags: :information:communication:bit:STUB:
+#+filetags: :information:communication:bit:statistics:stochastic:STUB:
 
 * Origins
 Claude Shannon introduced the first seminal paper on information theory in /A Mathematical Theory of Communication/.[cite:@shannonMathematicalTheoryCommunication1948]
+* Communication System
+[[file:images/InformationTheoryCommunicationSystemDiagram.png]]
+By a communication system we will mean a system of the type indicated schematically in Fig. 1. It consists of essentially five parts:
+** information source
+produces a message or sequence of messages to be communicated to the receiving terminal.
+information sources can be discrete, continuous, or mixed.
 
+** transmitter
+operates on the message in some way to produce a signal suitable for transmission over the channel.
+
+** channel
+the medium used to transmit the signal from transmitter to receiver. It may be a pair of wires, a coaxial cable, a band of radio frequencies, a beam of light, etc.
+
+** receiver
+performs the inverse operation of that done by the transmitter, reconstructing the message from the signal.
+
+** destination
+the person (or thing) for whom the message is intended.
+
+* DISCRETE NOISELESS SYSTEMS
+Languages can be considered a discrete information source.
+** Statistics as a structure of information
+*** Stochastic Processes
+** Markov Chains
 * Additional Resources
 
 [cite:@shannonMathematicalTheoryCommunication1998]

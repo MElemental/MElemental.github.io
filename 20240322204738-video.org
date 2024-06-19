@@ -4,4 +4,10 @@
 :ctime:    20240322204738
 :END:
 #+title: Video
-#+filetags: :video:camera:display:
+#+filetags: :video:camera:display:STUB:
+Video is a series of moving images.
+Because of this video shares a significant amount of concepts with [[id:f1fd751f-5939-4a86-b6fd-e2b82eab6ebb][Photography]].
+However video introduces a timing dimension.
+It involves [[id:6cabbe77-ffae-4dc0-aef6-c1d5d486157b][Video capture]] to record sources of video.
+[[roam:Video processing]] creates and manipulates video sources.
+[[id:1c01a88e-f175-4ba6-bdcc-c1f7cf0e7230][Video playback]] devices and programs play video.

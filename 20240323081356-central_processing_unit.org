@@ -7,6 +7,7 @@
 #+title: Central processing unit
  #+filetags: :cpu:central_processing_unit:computation:
 
+CPUs are a type of [[id:9b0b72e9-2759-4a0c-9870-a9ee74c0bbeb][processor]].
 * Purpose
 In the [[roam:Von Neumann Architecture]], a CPU is responsible for carrying out the fundamental [[id:00775a4b-e515-42f1-896d-eae818f77481][Computation]] of a computer.
 CPUs are responsible for interacting with the [[id:1aaddec5-7288-4492-bab8-692098a50a58][GPU]], [[roam:Volatile memory]], and [[id:be6298e3-b248-45d6-8b7b-ea49cefb686d][secondary computer storage]].
