@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6cabbe77-ffae-4dc0-aef6-c1d5d486157b
+:END:
+#+title: Video capture
+#+filetags: :camera:screen_recorder:video:  
+Video capture is the initial process of sourcing a video.
+This can come from a physical source, such as the environment, or from a virtual source, such as an electronic display.
+An alternative to video capture is [[roam:Video generation]].
+
+* Devices and Software
+
+** [[id:f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb][Camera (video)]]
+
+* Specifications
+
+* Maintenance and Quality Control

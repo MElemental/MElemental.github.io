@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c6e9553e-6262-484a-bc1e-baafdcf4044b
+:END:
+#+title: light emitting diode
+#+filetags: :light:electronics:diode:
+
+LEDs are a type of [[roam:diode]] that emits light when electricity passes through them.
+
+* Uses
+** Indicator lights
+** Image Display

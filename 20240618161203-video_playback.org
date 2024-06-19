@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1c01a88e-f175-4ba6-bdcc-c1f7cf0e7230
+:END:
+#+title: Video playback
+#+filetags: :video:television:projector:playback:
+
+* Devices
+** [[id:8ab6b612-c794-4ab8-89d2-1a0613c324e8][television]]
+** [[id:1c2021de-b9da-4923-99ec-fded17c2ad4c][Display Monitor]]
+** [[id:4d9f5527-4af9-489a-ad9a-559f6e70ab49][LED display]]
+** [[id:3ac1a89a-7720-4790-98f6-3722eb4b545c][projector]]

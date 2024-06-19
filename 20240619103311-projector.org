@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3ac1a89a-7720-4790-98f6-3722eb4b545c
+:END:
+#+title: projection
+#+filetags: :video:playback:light:lens:
+Projectors playback video via a projector machine.
+The projector machine aims light at a projector screen.
+Projectors can be front projecting or rear projecting.
+The light on a projector is magnified via a [[roam:lens]].
