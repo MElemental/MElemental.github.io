@@ -6,6 +6,17 @@
 :END:
 #+title: Loudspeaker
 #+filetags: :loudspeaker:speaker:audio:pa_system:public_address:sound_reinforcement:
+* Types
+** loudspeakers by frequency response
+:PROPERTIES:
+:ID:       f8819b9f-d8b5-4aaf-a8f8-20d69c20ab89
+:END:
+*** [[roam:line array]]
+*** [[roam:subwoofer]]
 
-* Line Arrays
-* Sub-woofers
+** loudspeakers by power amplifications
+:PROPERTIES:
+:ID:       18f8ebca-7a60-4de0-9133-75b10990c689
+:END:
+*** [[roam:active speakers]]
+*** [[roam:passive speakers]]

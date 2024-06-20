@@ -1,7 +1,8 @@
 :PROPERTIES:
 :ID:       29c0e899-9926-4809-8459-98c643753688
+:ROAM_ALIASES: "successor function"
 :END:
-#+title: successor function
+#+title: succession
 #+filetags: :mathematics:operation:succession:successor:peano_arithmetic:arithmetic:
 * Definition
 

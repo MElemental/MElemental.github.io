@@ -18,14 +18,14 @@ Additional properties of each operation can be found on their page.
 
 | hyperoperation | primary        | left inverse    | right inverse   | groups introduced |
 |----------------+----------------+-----------------+-----------------+-------------------|
-| $n = 0$        | successor      | predecessor     | predecessor     | $\mathbb{N}$               |
-| $n = 1$        | [[roam:addition]]  | subtraction     | subtraction     | $\mathbb{Z}$               |
+| $n = 0$        | succession     | predecessor     | predecessor     | $\mathbb{N}$               |
+| $n = 1$        | [[id:e48c630d-f50c-4047-91ed-f1574d9375ce][Addition]] | subtraction     | subtraction     | $\mathbb{Z}$               |
 | $n = 2$        | multiplication | division        | division        | $\mathbb{Q}$               |
 | $n = 3$        | exponentiation | root extraction | [[roam:logarithm]]  | $\mathbb{R}$               |
 | $n = 3$        | tetration      | hyper root      | hyper logarithm | $\aleph$               |
 
 ** n = 0
-*** [[roam:successor function][Succession]]
+*** [[id:29c0e899-9926-4809-8459-98c643753688][Succession]]
 Succession in a unary operator with arity one.
 $\mathbf{S}(n) = n + 1$
 

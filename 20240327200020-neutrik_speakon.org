@@ -6,4 +6,6 @@
 #+title: Neutrik speakON
 #+filetags: :speakON:STUB:
 
-Includes connectors such as [[id:ed1e6f52-b16f-44e0-ab87-a78584045d95][Neutrik NL4]], NL2 and NL8
+speakON connectors are intended for high current speaker applications.
+They are intended to power [[id:58d3a07b-4925-4ba2-8902-fa6a148d0d16][Loudspeakers]] such as [[roam:line array]] and [[roam:subwoofer]].
+Includes connectors such as [[id:ed1e6f52-b16f-44e0-ab87-a78584045d95][Neutrik NL4]], NL2 and NL8.
