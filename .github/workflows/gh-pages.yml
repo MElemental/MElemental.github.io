@@ -17,7 +17,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: ikoamu/org-roam-ui-hosting@main
         with:
-          org-roam-directory: main
+          org-roam-directory: 
           org-roam-db-filename: org-roam.db
           site-title: "MElemental's Mind Garden"
           deploy-to-pages: true
