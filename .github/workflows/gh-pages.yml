@@ -1,14 +1,23 @@
-           - name: Publish org-roam-ui
-  # You may pin to the exact commit or the version.
-  # uses: ikoamu/publish-org-roam-ui@03e5c8e1c61d0917da6cbbd8ddac7c7525a67c22
-  uses: ikoamu/publish-org-roam-ui@v1.2.0
-  with:
-    # org-roam db filename
-    org-roam-db-filename: 
-    org-roam.db
-    org-roam-directory: # optional, default is .
-    # Site title
-    site-title: # optional, default is ORUI
-     MElemental's Mind Garden
-    # Deploy to GitHub Pages
-    deploy-to-pages: true
+name: Generate static org-roam-ui page
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: ikoamu/org-roam-ui-hosting@main
+        with:
+          org-roam-directory: main
+          org-roam-db-filename: org-roam.db
+          site-title: "MElemental's Mind Garden"
+          deploy-to-pages: true
