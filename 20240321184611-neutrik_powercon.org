@@ -10,7 +10,7 @@
 #+title: Neutrik powerCon
 #+filetags: :power_connector:power_cable:stagehand:stagecraft:
 
-[[attachment:1816-NAC3FCA.jpg]] [[attachment:1819-NAC3FCB.jpg]]
+[[./img/1816-NAC3FCA.jpg]] [[,/img/1819-NAC3FCB.jpg]]
 
 * Standards
 Neutrik

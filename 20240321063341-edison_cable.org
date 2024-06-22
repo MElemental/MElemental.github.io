@@ -11,12 +11,12 @@
 #+TITLE: NEMA 5 (Edison)
 #+filetags: :stagecraft:stagehand:electrical_power:power_cable:nema:
 
-[[file:/home/microelemental/Documents/org-roam/images/NEMA-AC-Power-Plugs.jpg]]
+[[./img/NEMA-AC-Power-Plugs.jpg]]
 * Standards by
 National Electrical Manufacturer's Association
 * Pins
 #+CAPTION: NEMA 5-15R PINOUT
-[[file:/home/microelemental/Documents/org-roam/images/5-15R-PINOUT.jpg]]
+[[./img/5-15R-PINOUT.jpg]]
 
 ** Ground
 

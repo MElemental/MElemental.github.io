@@ -5,7 +5,7 @@
 :END:
 #+title: VESA Display Port
  #+filetags: :display:computer_monitor:locking_connector:display_port:
-[[attachment:DisplayPort.svg.png]]
+[[./img/DisplayPort.svg.png]]
 * Use
 
 ** Monitors
@@ -15,7 +15,7 @@ Display Port is primarily used for [[id:1c2021de-b9da-4923-99ec-fded17c2ad4c][Di
 
 * Pinout
 
-[[attachment:DisplayPort_Connector.svg.png]]
+[[./img/DisplayPort_Connector.svg.png]]
 
 | Pin 1  | ML_Lane 0 (p)[a] | Lane 0 (+)                         |
 | Pin 2  | GND              | Ground                             |

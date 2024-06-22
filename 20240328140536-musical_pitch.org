@@ -14,7 +14,7 @@ The amount of cycles per second in a graphical representation of a wave.
 While this is the primary determinant of pitch it is not the only determinant of pitch.
 ** Loudness
 
-[[./images/Figure2PM.png]]
+[[./img/Figure2PM.png]]
 [[zotero://open-pdf/library/items/Z85TUTEI?page=5&annotation=TG3KLECT][pdf]]
 [[zotero://select/library/items/ISHR544U][“The Psychology Of Music”, 2013, p. 5]]
 **Figure 2** The equal-loudness contours, taken from ISO 226:2003.

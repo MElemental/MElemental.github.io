@@ -6,7 +6,7 @@
 #+title: HDMI
 #+filetags: :audio:video:multimedia:display:data_cable:stagehand:stagecraft:
 
-[[attachment:High_Definition_Multimedia_Interface_Logo.svg.png]]
+[[./img/High_Definition_Multimedia_Interface_Logo.svg.png]]
 
 * Standardized by
 
@@ -20,7 +20,7 @@ Sends video and audio information to [[id:8ab6b612-c794-4ab8-89d2-1a0613c324e8][
 
 * Pinout
 
-[[attachment:HDMI_Connector_Pinout.svg.png]]
+[[./img/HDMI_Connector_Pinout.svg.png]]
 |  1 | TMDS Data2+                                                                                                              |
 |  2 | TMDS Data2 Shield                                                                                                        |
 |  3 | TMDS Data2−                                                                                                              |

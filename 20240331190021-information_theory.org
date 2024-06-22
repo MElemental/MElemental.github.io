@@ -9,7 +9,7 @@
 * Origins
 Claude Shannon introduced the first seminal paper on information theory in /A Mathematical Theory of Communication/.[cite:@shannonMathematicalTheoryCommunication1948]
 * Communication System
-[[file:images/InformationTheoryCommunicationSystemDiagram.png]]
+[[./img/InformationTheoryCommunicationSystemDiagram.png]]
 By a communication system we will mean a system of the type indicated schematically in Fig. 1. It consists of essentially five parts:
 ** information source
 produces a message or sequence of messages to be communicated to the receiving terminal.
@@ -28,10 +28,9 @@ performs the inverse operation of that done by the transmitter, reconstructing t
 the person (or thing) for whom the message is intended.
 
 * DISCRETE NOISELESS SYSTEMS
-Languages can be considered a discrete information source.
+written Languages can be considered a discrete information source.
 ** Statistics as a structure of information
 *** Stochastic Processes
 ** Markov Chains
 * Additional Resources
-
 [cite:@shannonMathematicalTheoryCommunication1998]

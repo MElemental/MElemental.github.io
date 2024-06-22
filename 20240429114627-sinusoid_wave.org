@@ -5,7 +5,7 @@
 :END:
 #+title: sinusoid wave
 #+filetags: :signal_processing:mathematics:sine:cosine:sinusoid:trigonometry:circle:sin:cos:
-[[attachment:sine-cosine-unit-circle-animation.gif]]
+[[./img/sine-cosine-unit-circle-animation.gif]]
 * Definitions
 Sinusoid waves are based on the legs of right triangles formed on the [[id:0c0ade61-f327-45b8-bfce-2a9ea38bbede][unit circle]] with a radius of 1 as the hypotenuse.
 * [[roam:signal processing]]

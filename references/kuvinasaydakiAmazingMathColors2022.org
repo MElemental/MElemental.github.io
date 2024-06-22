@@ -22,7 +22,7 @@ Chapters:
 * 0:00 Intro
 * 1:04 Cone cells
 SML color space
-[[attachment:1280px-Cones_SMJ2_E.svg.png]]
+[[../img/1280px-Cones_SMJ2_E.svg.png]]
 
 #+caption: Noramlized responsivity curve source: [@stockmanSpectralSensitivitiesHuman1993]
 

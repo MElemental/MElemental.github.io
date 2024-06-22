@@ -19,7 +19,7 @@ Connectors for appliances
 
 * Connectors
 
-[[attachment:IEC-60320-connector-standard.jpg]]
+[[./img/IEC-60320-connector-standard.jpg]]
 ** [[id:dcd41c7c-2452-48ab-b860-ab6f6cf34282][IEC 60320 C13-C14]]
 *** Common uses
 Computer power supplies

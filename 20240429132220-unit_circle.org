@@ -13,4 +13,4 @@ The unit circle is represented as the formula:
 $x^2 + y^2 = 1$
 This produces a circle with radius 1.
 * [[id:f7833289-8575-47ec-8959-c5701fd705cd][trigonometry]]
-[[attachment:all-trig-graphs-gif_orig_large_optimized.gif]]
+[[./img/all-trig-graphs-gif_orig_large_optimized.gif]]
