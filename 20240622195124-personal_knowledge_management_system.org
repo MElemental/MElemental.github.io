@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       d9ea85cd-0b6d-46bd-a3bd-a4f21e94e133
+:END:
+#+title: Personal Knowledge Management System
+#+filetags: :personal_knowledge_management:zettelkasten:productivity:graph:note_taking:
+Personal Knowledge Management Systems (PKMS) are systems used to organize and track an individual's growth of knowledge across their entire life.
+The intention is to form organic and insightful connections among an individual's pieces of knowledge.
+The oldest modern version of this is [[id:1f2728d2-482f-4e66-98b5-ca7348c55e44][Zettelkasten]], developed by sociologist Niklas Luhmann.
+
+* Getting Started
+
+The primary mechanism of PKMS is linking.
+PKMS encourage the creation of articles with links, in a similar way to wiki articles.
+Modern PKM software has a way to perform linking between files/articles and often a way to visualize those links.
+After that more sophisticated workflows may be imposed, but it is not necessary to use them.
+
+A PKMS is meant to be non or minimally hierarchical.
+A PKMS can be as simple as bunch of plain text files inside of one folder.
+PKMS are very personal, and it is not recommended to add subfolders to a workflow just to conform to some PKM scheme.
+Subfolders should be used only when it makes sense to use them for an individual.
+(Subfolders can be useful for filters. see [[Intermediate Concepts]] )
+The software reveals the majority of the structure.
+* Software
+This software in this section is organized from easiest to more involved programs.
+** Obsidian
+Obsidian is a PKM software that manages markdown files.
+Each PKM is called a vault.
+Markdown files are plain text files that use the Markdown markup language.
+Some version of Markdwon is commonly used in Reddit, Discord, and Github.
+Obsidian's Markdwon does inlcude the ~[[]]~ wiki syntax as the usual markdown link syntax is more complicated.
+*** Features
+**** Free
+***** User Friendly file navigation
+It is easy to open and create files and folders.
+***** Graph View
+Graph View is available inside Obsidian with many filters and coloring options based on tags, directories, and more.
+***** Community and Official Plugins
+Obsidian has a plugin popular plugin ecosystem.
+Compared to the other options, it is probably the most supported.
+Plugins introduce additional features to a workflow.
+
+**** Paid
+
+***** Obsidian Sync
+Syncing across Multiple devices
+
+***** Obsidian Publish
+Publish Obsidian Vaults to a website.
+
+
+
+** Logseq
+
+Logseq is an Open Source alternative of obsidian.
+It also uses Markdwon with ~[[]]~ link syntax.
+
+** Emacs org-roam
+This is a good option for someone who uses Emacs, org-mode, or wishes to do [[roam:literate programming]]
+org-roam takes .org files, gives the UUIDs and creates a sql database to query.
+*** org-mode
+org mode is a markup language that originates in Emacs.
+it has enjoyed many decades of a developer ecosystem.
+org-roam is compatible with most org-mode plugins.
+
+*** org-roam-ui
+org-roam-ui produces the graph for Emacs in a browser.
+
+* Basic Concepts
+** linking
+** backlinks
+** graphing
+** tagging
+* Intermediate Concepts
+** filters
+* Advanced Concepts (Strutured PKMS)

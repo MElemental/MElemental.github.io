@@ -18,7 +18,7 @@ It is 6 sets of 3 pin electrical connections and an extra ground.
 * Power
 
 ** Input
-[[file:/home/microelemental/Documents/org-roam/socapex-diagram.png]]
+[[./img/socapex-diagram.png]]
 
 For stage lighting (mains voltage) the standard pin assignments are:
 | Circuit Number | Live   | Neutral | Earth  |
