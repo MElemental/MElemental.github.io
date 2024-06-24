@@ -21,6 +21,7 @@ The primary mechanism of PKMS is linking.
 PKMS use articles with links, in a similar way to wiki articles.
 Each of these article files is called a */node/*.
 Linking creates connections with other node in the filesystem.
+
 Modern PKM software has a way to perform linking between files/articles and often a way to visualize those links.
 Modern PKM software also has backlinking, which shows what articles link to the current article.
 
@@ -34,8 +35,9 @@ These synthesized nodes should still link to the original nodes they draw inspir
 A PKMS is meant to be non or minimally hierarchical.
 A PKMS can be as simple as bunch of plain text files inside of one folder or something more elaborated to promote a certain workflow.
 The links will form most of the structure.
-tagging is recommended instead of categorization because tagging eliminates rigid heiarchy.
 
+tagging is recommended instead of categorization because tagging eliminates rigid hierarchy.
+tagging is also recommended to be done frequently and early on.
 ** subfolders
 The software will reveal the majority of the structure so it is not necessary to create subfolders for the purposes of categorization.
 However moving files into subfolders should not affect the ability for the PKM software to graph links between nodes.
