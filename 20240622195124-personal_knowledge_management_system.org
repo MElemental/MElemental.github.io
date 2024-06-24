@@ -5,21 +5,57 @@
 #+filetags: :personal_knowledge_management:zettelkasten:productivity:graph:note_taking:
 Personal Knowledge Management Systems (PKMS) are systems used to organize and track an individual's growth of knowledge across their entire life.
 The intention is to form organic and insightful connections among an individual's pieces of knowledge.
+
 The oldest modern version of this is [[id:1f2728d2-482f-4e66-98b5-ca7348c55e44][Zettelkasten]], developed by sociologist Niklas Luhmann.
+Literally translating to "slip box", zettelkasten was originally done with boxes of note cards that had a method to uniquely identify each note card.
+When new note cards were created, Luhmann would refer back to older note cards with their identifier.
+He would also update the old note card with the new note card's identifier.
+This is known as a backlink.
+
+Modern PKMS follow this principle of linking, and digitize the overhead.
 
 * Getting Started
 
+** linking
 The primary mechanism of PKMS is linking.
-PKMS encourage the creation of articles with links, in a similar way to wiki articles.
+PKMS use articles with links, in a similar way to wiki articles.
+Each of these article files is called a */node/*.
+Linking creates connections with other node in the filesystem.
 Modern PKM software has a way to perform linking between files/articles and often a way to visualize those links.
-After that more sophisticated workflows may be imposed, but it is not necessary to use them.
+Modern PKM software also has backlinking, which shows what articles link to the current article.
 
+** Atomization
+It is recommended to write most nodes as a single concept instead of one longer file with multiple concepts.
+This makes it easier for both the user to search concepts, and for the software to reveal interesting connections between concepts.
+After interesting connections are created, it would make sense to make nodes that are synthesis of atomized concepts.
+These synthesized nodes should still link to the original nodes they draw inspiration from.
+
+** tags instead of categories
 A PKMS is meant to be non or minimally hierarchical.
-A PKMS can be as simple as bunch of plain text files inside of one folder.
-PKMS are very personal, and it is not recommended to add subfolders to a workflow just to conform to some PKM scheme.
-Subfolders should be used only when it makes sense to use them for an individual.
-(Subfolders can be useful for filters. see [[Intermediate Concepts]] )
-The software reveals the majority of the structure.
+A PKMS can be as simple as bunch of plain text files inside of one folder or something more elaborated to promote a certain workflow.
+The links will form most of the structure.
+tagging is recommended instead of categorization because tagging eliminates rigid heiarchy.
+
+** subfolders
+The software will reveal the majority of the structure so it is not necessary to create subfolders for the purposes of categorization.
+However moving files into subfolders should not affect the ability for the PKM software to graph links between nodes.
+
+*** reasons to use subfolders
+
+Some reasons to create subfolders include privacy and chronological or developmental organization.
+
+**** privacy
+
+Depending on the publishing software used, one may wish to hide some files from publishing.
+A common set of files to hide are "dailies", which usually function as people's daily journal.
+
+**** workflow
+
+Another reason to use subfolders maybe to organize a workflow based on its development of ideas.
+A simple example of a workflow might be a progression of fleeting ideas, reference material, original ideas.
+
+On might have a folder dedicated solely to files that are meant to annotate literature notes, or todo lists.
+
 * Software
 This software in this section is organized from easiest to more involved programs.
 ** Obsidian
@@ -32,8 +68,10 @@ Obsidian's Markdwon does inlcude the ~[[]]~ wiki syntax as the usual markdown li
 **** Free
 ***** User Friendly file navigation
 It is easy to open and create files and folders.
+
 ***** Graph View
 Graph View is available inside Obsidian with many filters and coloring options based on tags, directories, and more.
+
 ***** Community and Official Plugins
 Obsidian has a plugin popular plugin ecosystem.
 Compared to the other options, it is probably the most supported.
@@ -46,8 +84,6 @@ Syncing across Multiple devices
 
 ***** Obsidian Publish
 Publish Obsidian Vaults to a website.
-
-
 
 ** Logseq
 
@@ -62,14 +98,27 @@ org mode is a markup language that originates in Emacs.
 it has enjoyed many decades of a developer ecosystem.
 org-roam is compatible with most org-mode plugins.
 
+*** org-babel
+This extension allows for the execution of code inside of org mode files.
+
+*** org-cite and org-ref
+These extensions provide citations for org files.
 *** org-roam-ui
 org-roam-ui produces the graph for Emacs in a browser.
 
-* Basic Concepts
-** linking
-** backlinks
-** graphing
-** tagging
-* Intermediate Concepts
-** filters
-* Advanced Concepts (Strutured PKMS)
+* Auxilary software
+
+** Reference Managers
+Reference Managers organize references, and many have integrations that allow easy insertion of references into word processors and PKMS.
+
+*** Zotero
+Zotero is the most supported reference manager, and has many integrations with Obsidian, web browsers, and Word.
+* Concepts
+** Basic
+*** linking
+*** backlinking
+*** graphing
+*** tagging
+** Intermediate
+*** filters
+** Advanced Concepts (Strutured PKMS)
